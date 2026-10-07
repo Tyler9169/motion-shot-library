@@ -1,0 +1,8 @@
+{
+  "name": "motion-shot-library",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Reusable camera and typography motion presets with a visual playground",
+  "scripts": {"dev":"python3 -m http.server 4188 --bind 127.0.0.1","check":"node --check app.js && node --check lib/type-motion.js && node --check lib/camera-motion.js"}
+}

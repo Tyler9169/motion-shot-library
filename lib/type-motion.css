@@ -1,0 +1,16 @@
+/* Layout stays stable throughout each animation. All animated state lives in GSAP. */
+.tm-root{--tm-size:72px;--tm-color:#111;--tm-accent:#e62919;display:flex;flex-direction:column;align-items:center;justify-content:center;width:100%;min-width:0;color:var(--tm-color);font-family:system-ui,sans-serif;font-size:var(--tm-size);text-align:center;line-height:1.06}
+.tm-title{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;column-gap:.22em;row-gap:0;max-width:100%;font-weight:900;letter-spacing:-.055em}
+.tm-mask{display:block;overflow:hidden;padding:.08em .075em;margin:-.08em -.075em;max-width:100%}
+.tm-word{display:block;white-space:pre-wrap;overflow-wrap:anywhere;will-change:transform,opacity,filter}
+.tm-title-stacked{flex-direction:column;align-items:center}
+.tm-title-stacked .tm-mask:first-child{margin-right:.75em}
+.tm-title-stacked .tm-mask:last-child{margin-left:.75em}
+.tm-title-cjk{column-gap:.025em}
+.tm-subtitle{display:inline-flex;flex-wrap:wrap;position:relative;max-width:100%;min-height:1.35em;margin-top:.18em;align-items:baseline;justify-content:center;font-size:.34em;font-weight:400;letter-spacing:-.035em;line-height:1.35;white-space:pre}
+.tm-char-slot{position:relative;display:inline-block;flex:none}
+.tm-glyph{opacity:0}
+.tm-cursor{position:absolute;display:block;top:.13em;right:-.13em;width:.14em;height:1.03em;background:var(--tm-accent);opacity:0;pointer-events:none}
+.tm-cursor-initial{left:0;right:auto}
+
+.tm-line-break{flex-basis:100%;height:0}
