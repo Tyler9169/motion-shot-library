@@ -2,7 +2,7 @@
 
 [打开在线预览](https://tyler9169.github.io/motion-shot-library/) · [多实例示例](https://tyler9169.github.io/motion-shot-library/examples/) · [接口文档](docs/API.md)
 
-10 个 HTML / CSS / GSAP 动效预设。网页里可以预览、慢放、拖动时间轴、调参数、替换素材，以及复制接入代码。无需 HyperFrames，无需后端，所有依赖随仓库提供。
+19 个 HTML / CSS / GSAP 动效预设。网页里可以预览、慢放、拖动时间轴、调参数、替换素材，以及复制接入代码。无需 HyperFrames，无需后端，所有依赖随仓库提供。
 
 | 类型 | 预设 | 动作 |
 | --- | --- | --- |
@@ -74,7 +74,7 @@ import { CameraMotion, TypeMotion } from './lib/index.mjs';
 
 ## 播放控制
 
-两种组件均返回 `{ timeline, duration, element, destroy }`。`timeline` 默认暂停：
+各类组件均返回 `{ timeline, duration, element, destroy }`。`timeline` 默认暂停：
 
 ```js
 shot.timeline.play();
@@ -122,3 +122,7 @@ GitHub Pages 从 `main` 分支的根目录发布。修改网页或组件后提�
 - [全部分类与命名](docs/catalog.md)，网页支持分类与搜索。
 - [XCYJ 参考目录](references.html)：257 条外部参考、13 类。仅提供整理索引和原站入口，尚无可编辑组件源码。
 - [Vibe Motion 源项目快照](downloads/create-vibe-motion-source.zip)：上游 commit `2657ae9abadb89714bdabf0d3aef210e60ce1223`，保留目录结构和源码；不包含 node_modules。解压后执行 `pnpm install`，使用 `pnpm dev` 启动。
+
+## StoryMotion 视频参考组
+
+新增 9 个可替换图片与文案的场景组件。[打开九镜头总览](https://tyler9169.github.io/motion-shot-library/examples/story.html)，见 [九镜头拆解与 API](docs/story-api.md)。全部原创示意素材随 CSS 提供，原始 MOV 不在公开仓库内。

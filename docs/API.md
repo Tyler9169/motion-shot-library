@@ -84,3 +84,7 @@ CameraMotion.mount(container, {
 ## 卡片、标签、进度 VibeMotion
 
 见 [vibe-api.md](vibe-api.md)，支持完整场景与三个独立动作。
+
+## 多图、人物、封面场景 StoryMotion
+
+见 [story-api.md](story-api.md)，包含 9 个场景预设、素材顺序和参数说明。
