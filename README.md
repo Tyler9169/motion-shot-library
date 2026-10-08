@@ -2,7 +2,7 @@
 
 [打开在线预览](https://tyler9169.github.io/motion-shot-library/) · [多实例示例](https://tyler9169.github.io/motion-shot-library/examples/) · [接口文档](docs/API.md)
 
-6 个 HTML / CSS / GSAP 动效预设。网页里可以预览、慢放、拖动时间轴、调参数、替换素材，以及复制接入代码。无需 HyperFrames，无需后端，所有依赖随仓库提供。
+10 个 HTML / CSS / GSAP 动效预设。网页里可以预览、慢放、拖动时间轴、调参数、替换素材，以及复制接入代码。无需 HyperFrames，无需后端，所有依赖随仓库提供。
 
 | 类型 | 预设 | 动作 |
 | --- | --- | --- |
@@ -101,7 +101,7 @@ python3 -m http.server 4188 --bind 127.0.0.1
 index.html / style.css / app.js  可视化镜头网页
 lib/                            可复用组件与模块入口
 vendor/                         本地 GSAP 依赖
-examples/                       六实例接入示例
+examples/                       多实例接入示例
 docs/                           API 与动作拆解
 downloads/                      可直接下载的组件包
 ```
@@ -115,3 +115,10 @@ GitHub Pages 从 `main` 分支的根目录发布。修改网页或组件后提�
 ## 许可与来源
 
 本仓库原创组件、网页与文档采用 [MIT License](LICENSE)。GSAP 3.15.0 保留其原许可，详见 [第三方说明](THIRD_PARTY.md)。空间包装与文字分段模式参考 HyperFrames registry 的 `yt-camera-move`、`text-stagger`、`soft-blur-in`；时间、方向、遮罩及可复用接口按本项目需求实现。
+
+## 新增 Vibe Motion 与外部镜头目录
+
+- Vibe Motion：1 个完整卡片场景 + 3 个独立动作；[接口说明](docs/vibe-api.md)。
+- [全部分类与命名](docs/catalog.md)，网页支持分类与搜索。
+- [XCYJ 参考目录](references.html)：257 条外部参考、13 类。仅提供整理索引和原站入口，尚无可编辑组件源码。
+- [Vibe Motion 源项目快照](downloads/create-vibe-motion-source.zip)：上游 commit `2657ae9abadb89714bdabf0d3aef210e60ce1223`，保留目录结构和源码；不包含 node_modules。解压后执行 `pnpm install`，使用 `pnpm dev` 启动。

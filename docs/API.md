@@ -80,3 +80,7 @@ CameraMotion.mount(container, {
 ```
 
 把新条目加入 `app.js` 的 shots 数组可扩充网页。发布前检查媒体加载、正反 seek、移动端和组件包同步。
+
+## 卡片、标签、进度 VibeMotion
+
+见 [vibe-api.md](vibe-api.md)，支持完整场景与三个独立动作。

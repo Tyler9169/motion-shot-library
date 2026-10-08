@@ -1,0 +1,258 @@
+﻿编号,名称,类别,风格,原站地址
+XCY-CD-001,点题关键词卡,信息卡片,品牌·双主题,https://shots.xiaochens.com/#/shot/title
+XCY-SP-001,口播标签,人物口播,品牌·双主题,https://shots.xiaochens.com/#/shot/talk
+XCY-CD-002,侧栏要点列表,信息卡片,品牌·奶油浅底,https://shots.xiaochens.com/#/shot/list
+XCY-CD-003,双卡对比,信息卡片,品牌·双主题,https://shots.xiaochens.com/#/shot/compare
+XCY-CD-004,左右卡片,信息卡片,品牌·双主题,https://shots.xiaochens.com/#/shot/flankcards
+XCY-UI-001,产品展示,界面演示,品牌·奶油浅底,https://shots.xiaochens.com/#/shot/showcase
+XCY-UI-002,截图证据(半屏),界面演示,品牌·奶油浅底,https://shots.xiaochens.com/#/shot/screenshot
+XCY-UI-003,截图证据(全屏),界面演示,品牌·espresso深底,https://shots.xiaochens.com/#/shot/shotfull
+XCY-UI-004,长截图往上滚,界面演示,品牌·espresso深底,https://shots.xiaochens.com/#/shot/scrollshot
+XCY-QT-001,原话放大,引用与评论,品牌·espresso深底,https://shots.xiaochens.com/#/shot/quote
+XCY-CD-005,Logo 墙,信息卡片,品牌·奶油浅底,https://shots.xiaochens.com/#/shot/logos
+XCY-DT-001,数据对决,数据可视化,品牌·espresso深底,https://shots.xiaochens.com/#/shot/herostat
+XCY-DT-002,数字冲击,数据可视化,品牌·espresso深底,https://shots.xiaochens.com/#/shot/statshock
+XCY-BG-001,过场标题,背景与转场,品牌·espresso深底,https://shots.xiaochens.com/#/shot/transition
+XCY-EN-001,点赞关注卡,结尾引导,品牌·espresso深底,https://shots.xiaochens.com/#/shot/cta
+XCY-UI-005,双封面并排(开头用),界面演示,品牌·双主题,https://shots.xiaochens.com/#/shot/brollstack
+XCY-AI-001,代码窗,对话与终端,品牌·奶油浅底,https://shots.xiaochens.com/#/shot/code
+XCY-EN-002,图文片尾总结,结尾引导,品牌·espresso深底,https://shots.xiaochens.com/#/shot/outro
+XCY-EN-003,真人片尾复盘,结尾引导,品牌·双主题,https://shots.xiaochens.com/#/shot/outrostage
+XCY-UI-006,多图轮播,界面演示,品牌·espresso深底,https://shots.xiaochens.com/#/shot/shotrotate
+XCY-UI-007,截图高亮框,界面演示,品牌·espresso深底,https://shots.xiaochens.com/#/shot/ring
+XCY-CD-006,小标签聚成结论,信息卡片,品牌·双主题,https://shots.xiaochens.com/#/shot/chipcluster
+XCY-SC-001,职业地图扫一圈,叙事场景,品牌·espresso深底,https://shots.xiaochens.com/#/shot/professionpan
+XCY-BG-002,能力卡发牌·逐张扫过(与章节卡成套),背景与转场,品牌·espresso深底,https://shots.xiaochens.com/#/shot/abilitypan
+XCY-BG-003,能力章节卡(与发牌成套),背景与转场,品牌·espresso深底,https://shots.xiaochens.com/#/shot/abilitychapter
+XCY-AI-002,Claude Code 终端,对话与终端,品牌·espresso深底,https://shots.xiaochens.com/#/shot/terminal
+XCY-AI-003,喂资料前后对照(终端),对话与终端,品牌·espresso深底,https://shots.xiaochens.com/#/shot/contextterminal
+XCY-SC-002,喂资料·实习生上手,叙事场景,品牌·espresso深底,https://shots.xiaochens.com/#/shot/contextstream
+XCY-SC-003,搜索结果换上独门货,叙事场景,品牌·espresso深底,https://shots.xiaochens.com/#/shot/searchinject
+XCY-SC-004,一次加一块·越叠越高,叙事场景,品牌·espresso深底,https://shots.xiaochens.com/#/shot/iterstack
+XCY-SC-005,"调好一张,复制一排",叙事场景,品牌·espresso深底,https://shots.xiaochens.com/#/shot/samplereel
+XCY-CD-007,一句话说三遍·亮出重点,信息卡片,品牌·双主题,https://shots.xiaochens.com/#/shot/pushstack
+XCY-SC-006,logo 球炸开·主角登场,叙事场景,品牌·espresso深底,https://shots.xiaochens.com/#/shot/logofloat
+XCY-EN-004,抖音播放器片尾,结尾引导,品牌·双主题,https://shots.xiaochens.com/#/shot/playeroutro
+XCY-DT-003,排名四宫格,数据可视化,品牌·espresso深底,https://shots.xiaochens.com/#/shot/rankdays
+XCY-CD-008,标题挤到一边·问题清单,信息卡片,品牌·奶油浅底,https://shots.xiaochens.com/#/shot/questionpush
+XCY-AI-004,AI 输入页(可换 AI),对话与终端,品牌·双主题,https://shots.xiaochens.com/#/shot/aiinput
+XCY-AI-005,Claude Code 输入页,对话与终端,品牌·双主题,https://shots.xiaochens.com/#/shot/claudecodeinput
+XCY-BG-004,点阵铺底背景,背景与转场,中立,https://shots.xiaochens.com/#/shot/dotmatrix
+XCY-SP-002,开场砸大字,人物口播,品牌·双主题,https://shots.xiaochens.com/#/shot/kinetichook
+XCY-QT-002,唱衰刷屏·最后翻案,引用与评论,品牌·双主题,https://shots.xiaochens.com/#/shot/bustedclaims
+XCY-SC-007,CLAUDE.md 被塞满,叙事场景,品牌·espresso深底,https://shots.xiaochens.com/#/shot/claudemdfill
+XCY-SC-008,文件自动归类,叙事场景,品牌·espresso深底,https://shots.xiaochens.com/#/shot/finderorganize
+XCY-SC-009,便利贴助理:治好失忆/贴多被埋,叙事场景,品牌·espresso深底,https://shots.xiaochens.com/#/shot/stickynote
+XCY-AI-006,一镜摇过:聊天框→终端,对话与终端,品牌·espresso深底,https://shots.xiaochens.com/#/shot/inputpan
+XCY-QT-003,推文刷屏墙·浮出一句话,引用与评论,品牌·espresso深底,https://shots.xiaochens.com/#/shot/tweetwall
+XCY-DT-004,数据条对比,数据可视化,品牌·奶油浅底,https://shots.xiaochens.com/#/shot/databars
+XCY-DT-005,档案计数卡,数据可视化,VOX纸雕,https://shots.xiaochens.com/#/shot/archivestat
+XCY-CD-009,印章定论卡,信息卡片,VOX纸雕,https://shots.xiaochens.com/#/shot/sealcard
+XCY-BG-005,撕纸转场,背景与转场,VOX纸雕,https://shots.xiaochens.com/#/shot/tornwipe
+XCY-BG-006,章节标题卡,背景与转场,品牌·espresso深底,https://shots.xiaochens.com/#/shot/chaptercard
+XCY-TY-001,RK A｜Kinetic Typography,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk002
+XCY-MK-001,RK A｜Data Stream Wipe,遮罩转场,品牌·双主题,https://shots.xiaochens.com/#/shot/rk030
+XCY-DP-001,RK A｜Particle Grid Horizon,路径与纵深,品牌·双主题,https://shots.xiaochens.com/#/shot/rk032
+XCY-DP-002,RK A｜Hologram Cube,路径与纵深,品牌·双主题,https://shots.xiaochens.com/#/shot/rk035
+XCY-TY-002,RK A｜Folding Panel Type,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk038
+XCY-TY-003,RK A｜Ring Orbit Type,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk040
+XCY-TY-004,RK A｜Perspective Shelf Marquee,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk042
+XCY-TY-005,RK A｜Mosaic Word Grid,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk044
+XCY-TY-006,RK A｜Diagonal Kinetic Sweep,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk046
+XCY-TY-007,RK A｜Stacked Word Marquee,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk048
+XCY-TY-008,RK A｜Spiral Vortex Type,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk050
+XCY-TY-009,RK A｜Cube Face Rotate,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk052
+XCY-TY-010,RK A｜Sphere Text Orbit,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk054
+XCY-TY-011,RK A｜Ribbon Curl Type,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk056
+XCY-TY-012,RK A｜Typography Tunnel,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk058
+XCY-TY-013,RK A｜Cylinder Text Wrap,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk060
+XCY-MK-002,RK A｜WebGL Fluid Transition,遮罩转场,品牌·双主题,https://shots.xiaochens.com/#/shot/rk061
+XCY-MK-003,RK A｜Shatter Glass Transition,遮罩转场,品牌·双主题,https://shots.xiaochens.com/#/shot/rk074
+XCY-MK-004,RK A｜Portal Warp Transition,遮罩转场,品牌·双主题,https://shots.xiaochens.com/#/shot/rk078
+XCY-DP-003,RK A｜3D Parallax Title,路径与纵深,品牌·双主题,https://shots.xiaochens.com/#/shot/rk081
+XCY-DP-004,RK A｜Paper Cutout Title,路径与纵深,品牌·双主题,https://shots.xiaochens.com/#/shot/rk082
+XCY-DP-005,RK A｜Origami Unfold,路径与纵深,品牌·双主题,https://shots.xiaochens.com/#/shot/rk083
+XCY-DP-006,RK A｜Neon Tunnel (WebGL),路径与纵深,品牌·双主题,https://shots.xiaochens.com/#/shot/rk086
+XCY-FX-001,RK A｜Metaballs (Canvas 2D),形变与粒子,品牌·双主题,https://shots.xiaochens.com/#/shot/rk092
+XCY-FX-002,RK A｜Liquid Text Fill,形变与粒子,品牌·双主题,https://shots.xiaochens.com/#/shot/rk096
+XCY-FX-003,RK A｜Liquid Metal Morph,形变与粒子,品牌·双主题,https://shots.xiaochens.com/#/shot/rk097
+XCY-MK-005,RK A｜Ink Bloom Transition,遮罩转场,品牌·双主题,https://shots.xiaochens.com/#/shot/rk100
+XCY-MK-006,RK A｜Glitch Slice Transition,遮罩转场,品牌·双主题,https://shots.xiaochens.com/#/shot/rk107
+XCY-MK-007,RK A｜Gemini Power Transition,遮罩转场,品牌·双主题,https://shots.xiaochens.com/#/shot/rk109
+XCY-FX-004,RK A｜Fireworks Finale Outro,形变与粒子,品牌·双主题,https://shots.xiaochens.com/#/shot/rk115
+XCY-DP-007,RK A｜3D Cube Rotate Intro,路径与纵深,品牌·双主题,https://shots.xiaochens.com/#/shot/rk121
+XCY-FX-005,RK A｜Confetti Burst (Canvas 2D),形变与粒子,品牌·双主题,https://shots.xiaochens.com/#/shot/rk122
+XCY-FX-006,RK A｜Liquid Glass Logo Reveal,形变与粒子,品牌·双主题,https://shots.xiaochens.com/#/shot/rk140
+XCY-FX-007,RK A｜Magnetic Particle Logo,形变与粒子,品牌·双主题,https://shots.xiaochens.com/#/shot/rk141
+XCY-FX-008,RK A｜Thunder Strike Logo (Image),形变与粒子,品牌·双主题,https://shots.xiaochens.com/#/shot/rk143
+XCY-FX-009,RK A｜YouTube Explosion Intro,形变与粒子,品牌·双主题,https://shots.xiaochens.com/#/shot/rk150
+XCY-FX-010,RK A｜Explosion Impact Intro,形变与粒子,品牌·双主题,https://shots.xiaochens.com/#/shot/rk151
+XCY-TY-014,RK A｜AE Kinetic Typography,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk175
+XCY-TY-015,RK A｜Kinetic Typography Pro,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk176
+XCY-MK-008,RK A｜Scene A to B Transition,遮罩转场,品牌·双主题,https://shots.xiaochens.com/#/shot/rk178
+XCY-MK-009,RK A｜Scene A/B Wipe Transition,遮罩转场,品牌·双主题,https://shots.xiaochens.com/#/shot/rk179
+XCY-MK-010,RK A｜Circle Graphics AE Style,遮罩转场,品牌·双主题,https://shots.xiaochens.com/#/shot/rk183
+XCY-TY-016,RK A｜Editorial Kinetic Typography,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk184
+XCY-TY-017,RK A｜Glowing Edge Reveal,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk191
+XCY-TY-018,RK A｜Ultra Impact Title,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk193
+XCY-DP-008,RK A｜Cinematic Route: Vietnam,路径与纵深,品牌·双主题,https://shots.xiaochens.com/#/shot/rk199
+XCY-DP-009,RK A｜Cinematic Flight Path,路径与纵深,品牌·双主题,https://shots.xiaochens.com/#/shot/rk200
+XCY-DP-010,RK A｜World Flight Path,路径与纵深,品牌·双主题,https://shots.xiaochens.com/#/shot/rk201
+XCY-TY-019,RK A｜Glowing Mask Reveal,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk204
+XCY-TY-020,RK A｜Kinetic Welcome Reveal,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk207
+XCY-TY-021,RK A｜Cinematic Welcome Reveal,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk208
+XCY-FX-011,RK A｜Explosive Channel Intro,形变与粒子,品牌·双主题,https://shots.xiaochens.com/#/shot/rk213
+XCY-DP-011,RK A｜Global Flight Route,路径与纵深,品牌·双主题,https://shots.xiaochens.com/#/shot/rk220
+XCY-FX-012,RK A｜Cinematic Explosion Intro,形变与粒子,品牌·双主题,https://shots.xiaochens.com/#/shot/rk227
+XCY-DP-012,RK A｜Emerald Orbit Cinematic,路径与纵深,品牌·双主题,https://shots.xiaochens.com/#/shot/rk233
+XCY-DP-013,RK A｜Futuristic Moon Drifter,路径与纵深,品牌·双主题,https://shots.xiaochens.com/#/shot/rk235
+XCY-DT-006,RK 结构｜等高线地图,数据可视化,品牌·双主题,https://shots.xiaochens.com/#/shot/rk013
+XCY-DT-007,RK 结构｜雷达扫描地图,数据可视化,品牌·双主题,https://shots.xiaochens.com/#/shot/rk014
+XCY-DT-008,RK 结构｜路线旅行地图,数据可视化,品牌·双主题,https://shots.xiaochens.com/#/shot/rk015
+XCY-DT-009,RK 结构｜数据看板,数据可视化,品牌·双主题,https://shots.xiaochens.com/#/shot/rk134
+XCY-DT-010,RK 结构｜Audiogram,数据可视化,品牌·双主题,https://shots.xiaochens.com/#/shot/rk138
+XCY-TY-022,RK B 技法｜Marquee Banner,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk003
+XCY-FX-013,RK B 技法｜Glitch Text,形变与粒子,品牌·双主题,https://shots.xiaochens.com/#/shot/rk004
+XCY-TY-023,RK B 技法｜Claude Text Reveal,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk005
+XCY-FX-014,RK B 技法｜Claude Gradient Wave,形变与粒子,品牌·双主题,https://shots.xiaochens.com/#/shot/rk006
+XCY-TY-024,RK B 技法｜Cinematic Zoom Title,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk007
+XCY-FX-015,RK B 技法｜1920s Documentary Overlay,形变与粒子,品牌·双主题,https://shots.xiaochens.com/#/shot/rk012
+XCY-DT-011,RK B 技法｜Glass Progress Ring,数据可视化,品牌·双主题,https://shots.xiaochens.com/#/shot/rk018
+XCY-DT-012,RK B 技法｜Glass Line Chart,数据可视化,品牌·双主题,https://shots.xiaochens.com/#/shot/rk020
+XCY-DT-013,RK B 技法｜Glass Bar Stats,数据可视化,品牌·双主题,https://shots.xiaochens.com/#/shot/rk021
+XCY-DT-014,RK B 技法｜Glass Donut Chart,数据可视化,品牌·双主题,https://shots.xiaochens.com/#/shot/rk026
+XCY-EN-005,RK B 技法｜Network Nodes Outro,结尾引导,品牌·双主题,https://shots.xiaochens.com/#/shot/rk027
+XCY-BG-007,RK B 技法｜Circuit Pulse Background,背景与转场,品牌·双主题,https://shots.xiaochens.com/#/shot/rk028
+XCY-BG-008,RK B 技法｜Orbital Rings Loader,背景与转场,品牌·双主题,https://shots.xiaochens.com/#/shot/rk029
+XCY-CD-010,RK B 技法｜Radar Lower Third,信息卡片,品牌·双主题,https://shots.xiaochens.com/#/shot/rk031
+XCY-FX-016,RK B 技法｜Aurora Prompt Card,形变与粒子,品牌·双主题,https://shots.xiaochens.com/#/shot/rk033
+XCY-TY-025,RK B 技法｜Tech Title Reveal,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk034
+XCY-BG-009,RK B 技法｜HUD Eye Scanner,背景与转场,品牌·双主题,https://shots.xiaochens.com/#/shot/rk036
+XCY-FX-017,RK B 技法｜WebGPU Aurora,形变与粒子,品牌·双主题,https://shots.xiaochens.com/#/shot/rk062
+XCY-BG-010,RK B 技法｜Waveform Pulse,背景与转场,品牌·双主题,https://shots.xiaochens.com/#/shot/rk063
+XCY-FX-018,RK B 技法｜VHS Retro Intro,形变与粒子,品牌·双主题,https://shots.xiaochens.com/#/shot/rk064
+XCY-TY-026,RK B 技法｜Typewriter Terminal,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk065
+XCY-TY-027,RK B 技法｜Swipe Up Reveal CTA,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk068
+XCY-BG-011,RK B 技法｜Stargazer,背景与转场,品牌·双主题,https://shots.xiaochens.com/#/shot/rk069
+XCY-CD-011,RK B 技法｜Sports Broadcast Lower Third,信息卡片,品牌·双主题,https://shots.xiaochens.com/#/shot/rk070
+XCY-TY-028,RK B 技法｜Split Screen Title,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk071
+XCY-FX-019,RK B 技法｜Shimmer Title,形变与粒子,品牌·双主题,https://shots.xiaochens.com/#/shot/rk073
+XCY-FX-020,RK B 技法｜Retro Wave Title,形变与粒子,品牌·双主题,https://shots.xiaochens.com/#/shot/rk075
+XCY-TY-029,RK B 技法｜Product Showcase Scene,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk077
+XCY-FX-021,RK B 技法｜Plasma Field (WebGL),形变与粒子,品牌·双主题,https://shots.xiaochens.com/#/shot/rk079
+XCY-BG-012,RK B 技法｜Particle Field,背景与转场,品牌·双主题,https://shots.xiaochens.com/#/shot/rk080
+XCY-DP-014,RK B 技法｜Orbital Logo Reveal,路径与纵深,品牌·双主题,https://shots.xiaochens.com/#/shot/rk084
+XCY-CD-012,RK B 技法｜News Ticker Lower Third,信息卡片,品牌·双主题,https://shots.xiaochens.com/#/shot/rk085
+XCY-FX-022,RK B 技法｜Neon Glitch Title,形变与粒子,品牌·双主题,https://shots.xiaochens.com/#/shot/rk089
+XCY-BG-013,RK B 技法｜Music Visualizer Scene,背景与转场,品牌·双主题,https://shots.xiaochens.com/#/shot/rk090
+XCY-BG-014,RK B 技法｜Matrix Rain (Canvas 2D),背景与转场,品牌·双主题,https://shots.xiaochens.com/#/shot/rk093
+XCY-TY-030,RK B 技法｜Marquee Light Bulb,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk094
+XCY-FX-023,RK B 技法｜Liquid Chrome Title,形变与粒子,品牌·双主题,https://shots.xiaochens.com/#/shot/rk098
+XCY-DT-015,RK B 技法｜Line Chart,数据可视化,品牌·双主题,https://shots.xiaochens.com/#/shot/rk099
+XCY-DP-015,RK B 技法｜Holographic Display,路径与纵深,品牌·双主题,https://shots.xiaochens.com/#/shot/rk101
+XCY-TY-031,RK B 技法｜Holographic Card,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk102
+XCY-FX-024,RK B 技法｜Holo Foil Card,形变与粒子,品牌·双主题,https://shots.xiaochens.com/#/shot/rk103
+XCY-TY-032,RK B 技法｜Gradient Mesh Title,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk105
+XCY-FX-025,RK B 技法｜Gold Foil Stamp,形变与粒子,品牌·双主题,https://shots.xiaochens.com/#/shot/rk106
+XCY-TY-033,RK B 技法｜Glassmorphism Reveal,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk108
+XCY-TY-034,RK B 技法｜Gemini Title Reveal,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk110
+XCY-TY-035,RK B 技法｜Gemini Split Screen,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk111
+XCY-FX-026,RK B 技法｜Film Burn Intro,形变与粒子,品牌·双主题,https://shots.xiaochens.com/#/shot/rk116
+XCY-TY-036,RK B 技法｜Event Promo Scene,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk118
+XCY-DT-016,RK B 技法｜Donut Chart,数据可视化,品牌·双主题,https://shots.xiaochens.com/#/shot/rk119
+XCY-TY-037,RK B 技法｜Cinematic Title,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk127
+XCY-EN-006,RK B 技法｜Cinematic Credits Outro,结尾引导,品牌·双主题,https://shots.xiaochens.com/#/shot/rk128
+XCY-DT-017,RK B 技法｜Bar Chart,数据可视化,品牌·双主题,https://shots.xiaochens.com/#/shot/rk130
+XCY-BG-015,RK B 技法｜Aurora Background,背景与转场,品牌·双主题,https://shots.xiaochens.com/#/shot/rk131
+XCY-TY-038,RK B 技法｜Arrow Draw CTA,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk132
+XCY-DT-018,RK B 技法｜Animated Bar Chart,数据可视化,品牌·双主题,https://shots.xiaochens.com/#/shot/rk133
+XCY-DP-016,RK B 技法｜Real Estate Tour Scene,路径与纵深,品牌·双主题,https://shots.xiaochens.com/#/shot/rk135
+XCY-FX-027,RK B 技法｜Vector Glow Logo Reveal,形变与粒子,品牌·双主题,https://shots.xiaochens.com/#/shot/rk139
+XCY-EN-007,RK B 技法｜Logo Zoom Outro (Image),结尾引导,品牌·双主题,https://shots.xiaochens.com/#/shot/rk142
+XCY-TY-039,RK B 技法｜Cinematic Logo Reveal (Image),空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk144
+XCY-TY-040,RK B 技法｜Product Image Reveal,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk146
+XCY-TY-041,RK B 技法｜DTC Product Technical Highlight,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk148
+XCY-TY-042,RK B 技法｜SaaS Product Demo Mockup,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk149
+XCY-TY-043,RK B 技法｜1950s Pixel Diner Intro,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk152
+XCY-TY-044,RK B 技法｜Warm Low-Poly Title,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk154
+XCY-FX-028,RK B 技法｜Retro Nostalgia Title,形变与粒子,品牌·双主题,https://shots.xiaochens.com/#/shot/rk156
+XCY-TY-045,RK B 技法｜Minimalist Stick Intro,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk157
+XCY-TY-046,RK B 技法｜Nostalgic Low-Poly Title,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk158
+XCY-TY-047,RK B 技法｜Nostalgia Low Poly Title,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk159
+XCY-TY-048,RK B 技法｜Warm Organic Intro,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk161
+XCY-MK-011,RK B 技法｜Corporate Loading Glitch Transition,遮罩转场,品牌·双主题,https://shots.xiaochens.com/#/shot/rk168
+XCY-MK-012,RK B 技法｜80s Retro Loading Transition,遮罩转场,品牌·双主题,https://shots.xiaochens.com/#/shot/rk170
+XCY-MK-013,RK B 技法｜Circle Slide Transition,遮罩转场,品牌·双主题,https://shots.xiaochens.com/#/shot/rk177
+XCY-TY-049,RK B 技法｜Playful Pop-Up Title,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk186
+XCY-TY-050,RK B 技法｜Playful Bouncy Pop-Up,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk187
+XCY-TY-051,RK B 技法｜Glow Slide Reveal,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk192
+XCY-TY-052,RK B 技法｜Sliding Text Reveal Blue,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk194
+XCY-TY-053,RK B 技法｜White Glow Sliding Reveal,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk195
+XCY-TY-054,RK B 技法｜Fast Capitalized Sliding Reveal,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk197
+XCY-DT-019,RK B 技法｜Futuristic Editorial Line Chart,数据可视化,品牌·双主题,https://shots.xiaochens.com/#/shot/rk202
+XCY-DT-020,RK B 技法｜Neon DAU Growth Chart,数据可视化,品牌·双主题,https://shots.xiaochens.com/#/shot/rk203
+XCY-TY-055,RK B 技法｜Serenity Editorial Title,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk210
+XCY-TY-056,RK B 技法｜Futuristic Retro-Gaming Title,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk211
+XCY-TY-057,RK B 技法｜Tepu Tepu Kelionės Intro,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk212
+XCY-TY-058,RK B 技法｜Spellborne Pixel Tools,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk214
+XCY-DP-017,RK B 技法｜Cinematic Sci-Fi Astronaut,路径与纵深,品牌·双主题,https://shots.xiaochens.com/#/shot/rk217
+XCY-TY-059,RK B 技法｜GLM-5.1 AI Intro,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk219
+XCY-DT-021,RK B 技法｜Mexico GDP Growth Chart,数据可视化,品牌·双主题,https://shots.xiaochens.com/#/shot/rk222
+XCY-DT-022,RK B 技法｜Germany GDP Bar Chart,数据可视化,品牌·双主题,https://shots.xiaochens.com/#/shot/rk223
+XCY-DP-018,RK B 技法｜Automotive Broadcast Title,路径与纵深,品牌·双主题,https://shots.xiaochens.com/#/shot/rk224
+XCY-DT-023,RK B 技法｜Corporate Editorial Pie Chart,数据可视化,品牌·双主题,https://shots.xiaochens.com/#/shot/rk228
+XCY-DP-019,RK B 技法｜Cinematic Flight Map,路径与纵深,品牌·双主题,https://shots.xiaochens.com/#/shot/rk229
+XCY-FX-029,RK B 技法｜Futuristic Neon Pulse,形变与粒子,品牌·双主题,https://shots.xiaochens.com/#/shot/rk234
+XCY-DT-024,RK B 技法｜Animated Marketing Pie Chart,数据可视化,品牌·双主题,https://shots.xiaochens.com/#/shot/rk237
+XCY-TY-060,RK B 技法｜Sleek Astronaut Card,空间文字,品牌·双主题,https://shots.xiaochens.com/#/shot/rk246
+XCY-DP-020,RK B 技法｜Global Flight Map,路径与纵深,品牌·双主题,https://shots.xiaochens.com/#/shot/rk248
+XCY-DT-025,RK B 技法｜Income Progress Line Chart,数据可视化,品牌·双主题,https://shots.xiaochens.com/#/shot/rk249
+XCY-DT-026,RC A｜曲线跟随滑杆,数据可视化,品牌·双主题,https://shots.xiaochens.com/#/shot/rc001
+XCY-SC-010,RC A｜工具栏形变命令面板,叙事场景,品牌·双主题,https://shots.xiaochens.com/#/shot/rc002
+XCY-SC-011,RC A｜长按确认状态机,叙事场景,品牌·双主题,https://shots.xiaochens.com/#/shot/rc003
+XCY-SC-012,RC A｜邻近放大缩略导航,叙事场景,品牌·双主题,https://shots.xiaochens.com/#/shot/rc004
+XCY-SC-013,RC A｜行内换算状态切换,叙事场景,品牌·双主题,https://shots.xiaochens.com/#/shot/rc005
+XCY-SC-014,RC A｜惯性滚轮选择器,叙事场景,品牌·双主题,https://shots.xiaochens.com/#/shot/rc006
+XCY-QT-004,RC A｜空间批注预览,引用与评论,品牌·双主题,https://shots.xiaochens.com/#/shot/rc007
+XCY-DT-027,RC A｜自适应精度滑杆,数据可视化,品牌·双主题,https://shots.xiaochens.com/#/shot/rc008
+XCY-SC-015,RC A｜按住展开环形菜单,叙事场景,品牌·双主题,https://shots.xiaochens.com/#/shot/rc009
+XCY-SC-016,RC A｜靠近解码列表,叙事场景,品牌·双主题,https://shots.xiaochens.com/#/shot/rc010
+XCY-SC-017,RC A｜锚点黏连 Tooltip,叙事场景,品牌·双主题,https://shots.xiaochens.com/#/shot/rc011
+XCY-UI-008,RC A｜滚动叙事固定主画面,界面演示,品牌·双主题,https://shots.xiaochens.com/#/shot/rc012
+XCY-DT-028,RC 结构｜持续记录时间图谱,数据可视化,品牌·双主题,https://shots.xiaochens.com/#/shot/rc013
+XCY-CD-013,RC 结构｜物件驱动设计沿革,信息卡片,品牌·双主题,https://shots.xiaochens.com/#/shot/rc014
+XCY-QT-005,RC 结构｜证据墙聚焦评论,引用与评论,品牌·双主题,https://shots.xiaochens.com/#/shot/rc015
+XCY-CD-014,RC 结构｜环形目录正文映射,信息卡片,品牌·双主题,https://shots.xiaochens.com/#/shot/rc016
+XCY-AI-007,RC 结构｜命令菜单状态机,对话与终端,品牌·双主题,https://shots.xiaochens.com/#/shot/rc017
+XCY-UI-009,RC 结构｜浏览历史空间栈,界面演示,品牌·双主题,https://shots.xiaochens.com/#/shot/rc018
+XCY-UI-010,RC 结构｜三区同步侧边栏,界面演示,品牌·双主题,https://shots.xiaochens.com/#/shot/rc019
+XCY-SC-018,RC B 技法｜局部焦点距离场,叙事场景,品牌·双主题,https://shots.xiaochens.com/#/shot/rc020
+XCY-AI-008,RC B 技法｜命令输入收束,对话与终端,品牌·双主题,https://shots.xiaochens.com/#/shot/rc021
+XCY-CD-015,RC B 技法｜徽标形变反馈,信息卡片,品牌·双主题,https://shots.xiaochens.com/#/shot/rc022
+XCY-BG-016,RC B 技法｜扫描遮罩转场,背景与转场,品牌·双主题,https://shots.xiaochens.com/#/shot/rc023
+XCY-CD-016,RC B 技法｜文字 Token 错峰,信息卡片,品牌·双主题,https://shots.xiaochens.com/#/shot/rc024
+XCY-UI-011,RC B 技法｜媒体焦点轨道,界面演示,品牌·双主题,https://shots.xiaochens.com/#/shot/rc025
+XCY-BG-017,RC B 技法｜流体表面材质,背景与转场,品牌·双主题,https://shots.xiaochens.com/#/shot/rc026
+XCY-SC-019,RC B 技法｜代理物交互反馈,叙事场景,品牌·双主题,https://shots.xiaochens.com/#/shot/rc027
+XCY-DT-029,员工职业路径流向图,数据可视化,中立,https://shots.xiaochens.com/#/shot/careerflowchart
+XCY-DT-030,用户增长趋势曲线,数据可视化,中立,https://shots.xiaochens.com/#/shot/usergrowthtrend
+XCY-DT-031,并行计算矩阵,数据可视化,品牌·espresso深底,https://shots.xiaochens.com/#/shot/parallelmatrix
+XCY-SC-020,问题因果链,叙事场景,品牌·espresso深底,https://shots.xiaochens.com/#/shot/causalchain
+XCY-SC-021,神经网络传播,叙事场景,品牌·espresso深底,https://shots.xiaochens.com/#/shot/neuralflow
+XCY-SC-022,辐射演进图,叙事场景,品牌·espresso深底,https://shots.xiaochens.com/#/shot/radialevolution
+XCY-DT-032,票房增长折线图,数据可视化,品牌·espresso深底,https://shots.xiaochens.com/#/shot/boxofficechart
+XCY-DT-033,三维矩阵折叠,数据可视化,品牌·espresso深底,https://shots.xiaochens.com/#/shot/matrixmorph
+XCY-SC-023,Token 重排注意力,叙事场景,品牌·奶油浅底,https://shots.xiaochens.com/#/shot/tokenrewrite
+XCY-SC-024,Token 热区传播,叙事场景,品牌·奶油浅底,https://shots.xiaochens.com/#/shot/tokenheatmap
+XCY-SC-025,公式结果轨道,叙事场景,品牌·espresso深底,https://shots.xiaochens.com/#/shot/equationorbit
+XCY-SC-026,模块散件拼装,叙事场景,品牌·espresso深底,https://shots.xiaochens.com/#/shot/moduleassembly
+XCY-DT-034,加权刻度聚类,数据可视化,品牌·奶油浅底,https://shots.xiaochens.com/#/shot/weightedcluster
+XCY-DT-035,宽表重点列锁定,数据可视化,品牌·奶油浅底,https://shots.xiaochens.com/#/shot/tablefocus
+XCY-BG-018,整页抬升揭示,背景与转场,品牌·奶油浅底,https://shots.xiaochens.com/#/shot/paperlift
+XCY-CD-017,选择保留与重组,信息卡片,品牌·espresso深底,https://shots.xiaochens.com/#/shot/selectiverecombine
+XCY-DT-036,累计权重改变平衡,数据可视化,品牌·奶油浅底,https://shots.xiaochens.com/#/shot/balanceaccumulation
+XCY-BG-019,文档级联证据墙,背景与转场,品牌·双主题,https://shots.xiaochens.com/#/shot/documentcascade
+XCY-SC-027,网格重排与主内容接管,叙事场景,品牌·奶油浅底,https://shots.xiaochens.com/#/shot/mosaicreflow
+XCY-SC-028,双向递归根系生长,叙事场景,品牌·奶油浅底,https://shots.xiaochens.com/#/shot/recursiverootgrowth
+XCY-BG-020,连续书页叶片级联,背景与转场,品牌·双主题,https://shots.xiaochens.com/#/shot/pageleafcascade
+XCY-SC-029,闭合无限路径双端接力,叙事场景,品牌·espresso深底,https://shots.xiaochens.com/#/shot/infinityrelay

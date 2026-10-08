@@ -1,0 +1,2058 @@
+[
+  {
+    "id": "title",
+    "code": "XCY-CD-001",
+    "name": "点题关键词卡",
+    "category": "信息卡片",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/title"
+  },
+  {
+    "id": "talk",
+    "code": "XCY-SP-001",
+    "name": "口播标签",
+    "category": "人物口播",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/talk"
+  },
+  {
+    "id": "list",
+    "code": "XCY-CD-002",
+    "name": "侧栏要点列表",
+    "category": "信息卡片",
+    "style": "品牌·奶油浅底",
+    "url": "https://shots.xiaochens.com/#/shot/list"
+  },
+  {
+    "id": "compare",
+    "code": "XCY-CD-003",
+    "name": "双卡对比",
+    "category": "信息卡片",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/compare"
+  },
+  {
+    "id": "flankcards",
+    "code": "XCY-CD-004",
+    "name": "左右卡片",
+    "category": "信息卡片",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/flankcards"
+  },
+  {
+    "id": "showcase",
+    "code": "XCY-UI-001",
+    "name": "产品展示",
+    "category": "界面演示",
+    "style": "品牌·奶油浅底",
+    "url": "https://shots.xiaochens.com/#/shot/showcase"
+  },
+  {
+    "id": "screenshot",
+    "code": "XCY-UI-002",
+    "name": "截图证据(半屏)",
+    "category": "界面演示",
+    "style": "品牌·奶油浅底",
+    "url": "https://shots.xiaochens.com/#/shot/screenshot"
+  },
+  {
+    "id": "shotfull",
+    "code": "XCY-UI-003",
+    "name": "截图证据(全屏)",
+    "category": "界面演示",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/shotfull"
+  },
+  {
+    "id": "scrollshot",
+    "code": "XCY-UI-004",
+    "name": "长截图往上滚",
+    "category": "界面演示",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/scrollshot"
+  },
+  {
+    "id": "quote",
+    "code": "XCY-QT-001",
+    "name": "原话放大",
+    "category": "引用与评论",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/quote"
+  },
+  {
+    "id": "logos",
+    "code": "XCY-CD-005",
+    "name": "Logo 墙",
+    "category": "信息卡片",
+    "style": "品牌·奶油浅底",
+    "url": "https://shots.xiaochens.com/#/shot/logos"
+  },
+  {
+    "id": "herostat",
+    "code": "XCY-DT-001",
+    "name": "数据对决",
+    "category": "数据可视化",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/herostat"
+  },
+  {
+    "id": "statshock",
+    "code": "XCY-DT-002",
+    "name": "数字冲击",
+    "category": "数据可视化",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/statshock"
+  },
+  {
+    "id": "transition",
+    "code": "XCY-BG-001",
+    "name": "过场标题",
+    "category": "背景与转场",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/transition"
+  },
+  {
+    "id": "cta",
+    "code": "XCY-EN-001",
+    "name": "点赞关注卡",
+    "category": "结尾引导",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/cta"
+  },
+  {
+    "id": "brollstack",
+    "code": "XCY-UI-005",
+    "name": "双封面并排(开头用)",
+    "category": "界面演示",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/brollstack"
+  },
+  {
+    "id": "code",
+    "code": "XCY-AI-001",
+    "name": "代码窗",
+    "category": "对话与终端",
+    "style": "品牌·奶油浅底",
+    "url": "https://shots.xiaochens.com/#/shot/code"
+  },
+  {
+    "id": "outro",
+    "code": "XCY-EN-002",
+    "name": "图文片尾总结",
+    "category": "结尾引导",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/outro"
+  },
+  {
+    "id": "outrostage",
+    "code": "XCY-EN-003",
+    "name": "真人片尾复盘",
+    "category": "结尾引导",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/outrostage"
+  },
+  {
+    "id": "shotrotate",
+    "code": "XCY-UI-006",
+    "name": "多图轮播",
+    "category": "界面演示",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/shotrotate"
+  },
+  {
+    "id": "ring",
+    "code": "XCY-UI-007",
+    "name": "截图高亮框",
+    "category": "界面演示",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/ring"
+  },
+  {
+    "id": "chipcluster",
+    "code": "XCY-CD-006",
+    "name": "小标签聚成结论",
+    "category": "信息卡片",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/chipcluster"
+  },
+  {
+    "id": "professionpan",
+    "code": "XCY-SC-001",
+    "name": "职业地图扫一圈",
+    "category": "叙事场景",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/professionpan"
+  },
+  {
+    "id": "abilitypan",
+    "code": "XCY-BG-002",
+    "name": "能力卡发牌·逐张扫过(与章节卡成套)",
+    "category": "背景与转场",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/abilitypan"
+  },
+  {
+    "id": "abilitychapter",
+    "code": "XCY-BG-003",
+    "name": "能力章节卡(与发牌成套)",
+    "category": "背景与转场",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/abilitychapter"
+  },
+  {
+    "id": "terminal",
+    "code": "XCY-AI-002",
+    "name": "Claude Code 终端",
+    "category": "对话与终端",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/terminal"
+  },
+  {
+    "id": "contextterminal",
+    "code": "XCY-AI-003",
+    "name": "喂资料前后对照(终端)",
+    "category": "对话与终端",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/contextterminal"
+  },
+  {
+    "id": "contextstream",
+    "code": "XCY-SC-002",
+    "name": "喂资料·实习生上手",
+    "category": "叙事场景",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/contextstream"
+  },
+  {
+    "id": "searchinject",
+    "code": "XCY-SC-003",
+    "name": "搜索结果换上独门货",
+    "category": "叙事场景",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/searchinject"
+  },
+  {
+    "id": "iterstack",
+    "code": "XCY-SC-004",
+    "name": "一次加一块·越叠越高",
+    "category": "叙事场景",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/iterstack"
+  },
+  {
+    "id": "samplereel",
+    "code": "XCY-SC-005",
+    "name": "调好一张,复制一排",
+    "category": "叙事场景",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/samplereel"
+  },
+  {
+    "id": "pushstack",
+    "code": "XCY-CD-007",
+    "name": "一句话说三遍·亮出重点",
+    "category": "信息卡片",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/pushstack"
+  },
+  {
+    "id": "logofloat",
+    "code": "XCY-SC-006",
+    "name": "logo 球炸开·主角登场",
+    "category": "叙事场景",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/logofloat"
+  },
+  {
+    "id": "playeroutro",
+    "code": "XCY-EN-004",
+    "name": "抖音播放器片尾",
+    "category": "结尾引导",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/playeroutro"
+  },
+  {
+    "id": "rankdays",
+    "code": "XCY-DT-003",
+    "name": "排名四宫格",
+    "category": "数据可视化",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/rankdays"
+  },
+  {
+    "id": "questionpush",
+    "code": "XCY-CD-008",
+    "name": "标题挤到一边·问题清单",
+    "category": "信息卡片",
+    "style": "品牌·奶油浅底",
+    "url": "https://shots.xiaochens.com/#/shot/questionpush"
+  },
+  {
+    "id": "aiinput",
+    "code": "XCY-AI-004",
+    "name": "AI 输入页(可换 AI)",
+    "category": "对话与终端",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/aiinput"
+  },
+  {
+    "id": "claudecodeinput",
+    "code": "XCY-AI-005",
+    "name": "Claude Code 输入页",
+    "category": "对话与终端",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/claudecodeinput"
+  },
+  {
+    "id": "dotmatrix",
+    "code": "XCY-BG-004",
+    "name": "点阵铺底背景",
+    "category": "背景与转场",
+    "style": "中立",
+    "url": "https://shots.xiaochens.com/#/shot/dotmatrix"
+  },
+  {
+    "id": "kinetichook",
+    "code": "XCY-SP-002",
+    "name": "开场砸大字",
+    "category": "人物口播",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/kinetichook"
+  },
+  {
+    "id": "bustedclaims",
+    "code": "XCY-QT-002",
+    "name": "唱衰刷屏·最后翻案",
+    "category": "引用与评论",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/bustedclaims"
+  },
+  {
+    "id": "claudemdfill",
+    "code": "XCY-SC-007",
+    "name": "CLAUDE.md 被塞满",
+    "category": "叙事场景",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/claudemdfill"
+  },
+  {
+    "id": "finderorganize",
+    "code": "XCY-SC-008",
+    "name": "文件自动归类",
+    "category": "叙事场景",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/finderorganize"
+  },
+  {
+    "id": "stickynote",
+    "code": "XCY-SC-009",
+    "name": "便利贴助理:治好失忆/贴多被埋",
+    "category": "叙事场景",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/stickynote"
+  },
+  {
+    "id": "inputpan",
+    "code": "XCY-AI-006",
+    "name": "一镜摇过:聊天框→终端",
+    "category": "对话与终端",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/inputpan"
+  },
+  {
+    "id": "tweetwall",
+    "code": "XCY-QT-003",
+    "name": "推文刷屏墙·浮出一句话",
+    "category": "引用与评论",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/tweetwall"
+  },
+  {
+    "id": "databars",
+    "code": "XCY-DT-004",
+    "name": "数据条对比",
+    "category": "数据可视化",
+    "style": "品牌·奶油浅底",
+    "url": "https://shots.xiaochens.com/#/shot/databars"
+  },
+  {
+    "id": "archivestat",
+    "code": "XCY-DT-005",
+    "name": "档案计数卡",
+    "category": "数据可视化",
+    "style": "VOX纸雕",
+    "url": "https://shots.xiaochens.com/#/shot/archivestat"
+  },
+  {
+    "id": "sealcard",
+    "code": "XCY-CD-009",
+    "name": "印章定论卡",
+    "category": "信息卡片",
+    "style": "VOX纸雕",
+    "url": "https://shots.xiaochens.com/#/shot/sealcard"
+  },
+  {
+    "id": "tornwipe",
+    "code": "XCY-BG-005",
+    "name": "撕纸转场",
+    "category": "背景与转场",
+    "style": "VOX纸雕",
+    "url": "https://shots.xiaochens.com/#/shot/tornwipe"
+  },
+  {
+    "id": "chaptercard",
+    "code": "XCY-BG-006",
+    "name": "章节标题卡",
+    "category": "背景与转场",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/chaptercard"
+  },
+  {
+    "id": "rk002",
+    "code": "XCY-TY-001",
+    "name": "RK A｜Kinetic Typography",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk002"
+  },
+  {
+    "id": "rk030",
+    "code": "XCY-MK-001",
+    "name": "RK A｜Data Stream Wipe",
+    "category": "遮罩转场",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk030"
+  },
+  {
+    "id": "rk032",
+    "code": "XCY-DP-001",
+    "name": "RK A｜Particle Grid Horizon",
+    "category": "路径与纵深",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk032"
+  },
+  {
+    "id": "rk035",
+    "code": "XCY-DP-002",
+    "name": "RK A｜Hologram Cube",
+    "category": "路径与纵深",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk035"
+  },
+  {
+    "id": "rk038",
+    "code": "XCY-TY-002",
+    "name": "RK A｜Folding Panel Type",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk038"
+  },
+  {
+    "id": "rk040",
+    "code": "XCY-TY-003",
+    "name": "RK A｜Ring Orbit Type",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk040"
+  },
+  {
+    "id": "rk042",
+    "code": "XCY-TY-004",
+    "name": "RK A｜Perspective Shelf Marquee",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk042"
+  },
+  {
+    "id": "rk044",
+    "code": "XCY-TY-005",
+    "name": "RK A｜Mosaic Word Grid",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk044"
+  },
+  {
+    "id": "rk046",
+    "code": "XCY-TY-006",
+    "name": "RK A｜Diagonal Kinetic Sweep",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk046"
+  },
+  {
+    "id": "rk048",
+    "code": "XCY-TY-007",
+    "name": "RK A｜Stacked Word Marquee",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk048"
+  },
+  {
+    "id": "rk050",
+    "code": "XCY-TY-008",
+    "name": "RK A｜Spiral Vortex Type",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk050"
+  },
+  {
+    "id": "rk052",
+    "code": "XCY-TY-009",
+    "name": "RK A｜Cube Face Rotate",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk052"
+  },
+  {
+    "id": "rk054",
+    "code": "XCY-TY-010",
+    "name": "RK A｜Sphere Text Orbit",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk054"
+  },
+  {
+    "id": "rk056",
+    "code": "XCY-TY-011",
+    "name": "RK A｜Ribbon Curl Type",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk056"
+  },
+  {
+    "id": "rk058",
+    "code": "XCY-TY-012",
+    "name": "RK A｜Typography Tunnel",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk058"
+  },
+  {
+    "id": "rk060",
+    "code": "XCY-TY-013",
+    "name": "RK A｜Cylinder Text Wrap",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk060"
+  },
+  {
+    "id": "rk061",
+    "code": "XCY-MK-002",
+    "name": "RK A｜WebGL Fluid Transition",
+    "category": "遮罩转场",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk061"
+  },
+  {
+    "id": "rk074",
+    "code": "XCY-MK-003",
+    "name": "RK A｜Shatter Glass Transition",
+    "category": "遮罩转场",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk074"
+  },
+  {
+    "id": "rk078",
+    "code": "XCY-MK-004",
+    "name": "RK A｜Portal Warp Transition",
+    "category": "遮罩转场",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk078"
+  },
+  {
+    "id": "rk081",
+    "code": "XCY-DP-003",
+    "name": "RK A｜3D Parallax Title",
+    "category": "路径与纵深",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk081"
+  },
+  {
+    "id": "rk082",
+    "code": "XCY-DP-004",
+    "name": "RK A｜Paper Cutout Title",
+    "category": "路径与纵深",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk082"
+  },
+  {
+    "id": "rk083",
+    "code": "XCY-DP-005",
+    "name": "RK A｜Origami Unfold",
+    "category": "路径与纵深",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk083"
+  },
+  {
+    "id": "rk086",
+    "code": "XCY-DP-006",
+    "name": "RK A｜Neon Tunnel (WebGL)",
+    "category": "路径与纵深",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk086"
+  },
+  {
+    "id": "rk092",
+    "code": "XCY-FX-001",
+    "name": "RK A｜Metaballs (Canvas 2D)",
+    "category": "形变与粒子",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk092"
+  },
+  {
+    "id": "rk096",
+    "code": "XCY-FX-002",
+    "name": "RK A｜Liquid Text Fill",
+    "category": "形变与粒子",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk096"
+  },
+  {
+    "id": "rk097",
+    "code": "XCY-FX-003",
+    "name": "RK A｜Liquid Metal Morph",
+    "category": "形变与粒子",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk097"
+  },
+  {
+    "id": "rk100",
+    "code": "XCY-MK-005",
+    "name": "RK A｜Ink Bloom Transition",
+    "category": "遮罩转场",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk100"
+  },
+  {
+    "id": "rk107",
+    "code": "XCY-MK-006",
+    "name": "RK A｜Glitch Slice Transition",
+    "category": "遮罩转场",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk107"
+  },
+  {
+    "id": "rk109",
+    "code": "XCY-MK-007",
+    "name": "RK A｜Gemini Power Transition",
+    "category": "遮罩转场",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk109"
+  },
+  {
+    "id": "rk115",
+    "code": "XCY-FX-004",
+    "name": "RK A｜Fireworks Finale Outro",
+    "category": "形变与粒子",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk115"
+  },
+  {
+    "id": "rk121",
+    "code": "XCY-DP-007",
+    "name": "RK A｜3D Cube Rotate Intro",
+    "category": "路径与纵深",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk121"
+  },
+  {
+    "id": "rk122",
+    "code": "XCY-FX-005",
+    "name": "RK A｜Confetti Burst (Canvas 2D)",
+    "category": "形变与粒子",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk122"
+  },
+  {
+    "id": "rk140",
+    "code": "XCY-FX-006",
+    "name": "RK A｜Liquid Glass Logo Reveal",
+    "category": "形变与粒子",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk140"
+  },
+  {
+    "id": "rk141",
+    "code": "XCY-FX-007",
+    "name": "RK A｜Magnetic Particle Logo",
+    "category": "形变与粒子",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk141"
+  },
+  {
+    "id": "rk143",
+    "code": "XCY-FX-008",
+    "name": "RK A｜Thunder Strike Logo (Image)",
+    "category": "形变与粒子",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk143"
+  },
+  {
+    "id": "rk150",
+    "code": "XCY-FX-009",
+    "name": "RK A｜YouTube Explosion Intro",
+    "category": "形变与粒子",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk150"
+  },
+  {
+    "id": "rk151",
+    "code": "XCY-FX-010",
+    "name": "RK A｜Explosion Impact Intro",
+    "category": "形变与粒子",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk151"
+  },
+  {
+    "id": "rk175",
+    "code": "XCY-TY-014",
+    "name": "RK A｜AE Kinetic Typography",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk175"
+  },
+  {
+    "id": "rk176",
+    "code": "XCY-TY-015",
+    "name": "RK A｜Kinetic Typography Pro",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk176"
+  },
+  {
+    "id": "rk178",
+    "code": "XCY-MK-008",
+    "name": "RK A｜Scene A to B Transition",
+    "category": "遮罩转场",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk178"
+  },
+  {
+    "id": "rk179",
+    "code": "XCY-MK-009",
+    "name": "RK A｜Scene A/B Wipe Transition",
+    "category": "遮罩转场",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk179"
+  },
+  {
+    "id": "rk183",
+    "code": "XCY-MK-010",
+    "name": "RK A｜Circle Graphics AE Style",
+    "category": "遮罩转场",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk183"
+  },
+  {
+    "id": "rk184",
+    "code": "XCY-TY-016",
+    "name": "RK A｜Editorial Kinetic Typography",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk184"
+  },
+  {
+    "id": "rk191",
+    "code": "XCY-TY-017",
+    "name": "RK A｜Glowing Edge Reveal",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk191"
+  },
+  {
+    "id": "rk193",
+    "code": "XCY-TY-018",
+    "name": "RK A｜Ultra Impact Title",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk193"
+  },
+  {
+    "id": "rk199",
+    "code": "XCY-DP-008",
+    "name": "RK A｜Cinematic Route: Vietnam",
+    "category": "路径与纵深",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk199"
+  },
+  {
+    "id": "rk200",
+    "code": "XCY-DP-009",
+    "name": "RK A｜Cinematic Flight Path",
+    "category": "路径与纵深",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk200"
+  },
+  {
+    "id": "rk201",
+    "code": "XCY-DP-010",
+    "name": "RK A｜World Flight Path",
+    "category": "路径与纵深",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk201"
+  },
+  {
+    "id": "rk204",
+    "code": "XCY-TY-019",
+    "name": "RK A｜Glowing Mask Reveal",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk204"
+  },
+  {
+    "id": "rk207",
+    "code": "XCY-TY-020",
+    "name": "RK A｜Kinetic Welcome Reveal",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk207"
+  },
+  {
+    "id": "rk208",
+    "code": "XCY-TY-021",
+    "name": "RK A｜Cinematic Welcome Reveal",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk208"
+  },
+  {
+    "id": "rk213",
+    "code": "XCY-FX-011",
+    "name": "RK A｜Explosive Channel Intro",
+    "category": "形变与粒子",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk213"
+  },
+  {
+    "id": "rk220",
+    "code": "XCY-DP-011",
+    "name": "RK A｜Global Flight Route",
+    "category": "路径与纵深",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk220"
+  },
+  {
+    "id": "rk227",
+    "code": "XCY-FX-012",
+    "name": "RK A｜Cinematic Explosion Intro",
+    "category": "形变与粒子",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk227"
+  },
+  {
+    "id": "rk233",
+    "code": "XCY-DP-012",
+    "name": "RK A｜Emerald Orbit Cinematic",
+    "category": "路径与纵深",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk233"
+  },
+  {
+    "id": "rk235",
+    "code": "XCY-DP-013",
+    "name": "RK A｜Futuristic Moon Drifter",
+    "category": "路径与纵深",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk235"
+  },
+  {
+    "id": "rk013",
+    "code": "XCY-DT-006",
+    "name": "RK 结构｜等高线地图",
+    "category": "数据可视化",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk013"
+  },
+  {
+    "id": "rk014",
+    "code": "XCY-DT-007",
+    "name": "RK 结构｜雷达扫描地图",
+    "category": "数据可视化",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk014"
+  },
+  {
+    "id": "rk015",
+    "code": "XCY-DT-008",
+    "name": "RK 结构｜路线旅行地图",
+    "category": "数据可视化",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk015"
+  },
+  {
+    "id": "rk134",
+    "code": "XCY-DT-009",
+    "name": "RK 结构｜数据看板",
+    "category": "数据可视化",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk134"
+  },
+  {
+    "id": "rk138",
+    "code": "XCY-DT-010",
+    "name": "RK 结构｜Audiogram",
+    "category": "数据可视化",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk138"
+  },
+  {
+    "id": "rk003",
+    "code": "XCY-TY-022",
+    "name": "RK B 技法｜Marquee Banner",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk003"
+  },
+  {
+    "id": "rk004",
+    "code": "XCY-FX-013",
+    "name": "RK B 技法｜Glitch Text",
+    "category": "形变与粒子",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk004"
+  },
+  {
+    "id": "rk005",
+    "code": "XCY-TY-023",
+    "name": "RK B 技法｜Claude Text Reveal",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk005"
+  },
+  {
+    "id": "rk006",
+    "code": "XCY-FX-014",
+    "name": "RK B 技法｜Claude Gradient Wave",
+    "category": "形变与粒子",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk006"
+  },
+  {
+    "id": "rk007",
+    "code": "XCY-TY-024",
+    "name": "RK B 技法｜Cinematic Zoom Title",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk007"
+  },
+  {
+    "id": "rk012",
+    "code": "XCY-FX-015",
+    "name": "RK B 技法｜1920s Documentary Overlay",
+    "category": "形变与粒子",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk012"
+  },
+  {
+    "id": "rk018",
+    "code": "XCY-DT-011",
+    "name": "RK B 技法｜Glass Progress Ring",
+    "category": "数据可视化",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk018"
+  },
+  {
+    "id": "rk020",
+    "code": "XCY-DT-012",
+    "name": "RK B 技法｜Glass Line Chart",
+    "category": "数据可视化",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk020"
+  },
+  {
+    "id": "rk021",
+    "code": "XCY-DT-013",
+    "name": "RK B 技法｜Glass Bar Stats",
+    "category": "数据可视化",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk021"
+  },
+  {
+    "id": "rk026",
+    "code": "XCY-DT-014",
+    "name": "RK B 技法｜Glass Donut Chart",
+    "category": "数据可视化",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk026"
+  },
+  {
+    "id": "rk027",
+    "code": "XCY-EN-005",
+    "name": "RK B 技法｜Network Nodes Outro",
+    "category": "结尾引导",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk027"
+  },
+  {
+    "id": "rk028",
+    "code": "XCY-BG-007",
+    "name": "RK B 技法｜Circuit Pulse Background",
+    "category": "背景与转场",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk028"
+  },
+  {
+    "id": "rk029",
+    "code": "XCY-BG-008",
+    "name": "RK B 技法｜Orbital Rings Loader",
+    "category": "背景与转场",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk029"
+  },
+  {
+    "id": "rk031",
+    "code": "XCY-CD-010",
+    "name": "RK B 技法｜Radar Lower Third",
+    "category": "信息卡片",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk031"
+  },
+  {
+    "id": "rk033",
+    "code": "XCY-FX-016",
+    "name": "RK B 技法｜Aurora Prompt Card",
+    "category": "形变与粒子",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk033"
+  },
+  {
+    "id": "rk034",
+    "code": "XCY-TY-025",
+    "name": "RK B 技法｜Tech Title Reveal",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk034"
+  },
+  {
+    "id": "rk036",
+    "code": "XCY-BG-009",
+    "name": "RK B 技法｜HUD Eye Scanner",
+    "category": "背景与转场",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk036"
+  },
+  {
+    "id": "rk062",
+    "code": "XCY-FX-017",
+    "name": "RK B 技法｜WebGPU Aurora",
+    "category": "形变与粒子",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk062"
+  },
+  {
+    "id": "rk063",
+    "code": "XCY-BG-010",
+    "name": "RK B 技法｜Waveform Pulse",
+    "category": "背景与转场",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk063"
+  },
+  {
+    "id": "rk064",
+    "code": "XCY-FX-018",
+    "name": "RK B 技法｜VHS Retro Intro",
+    "category": "形变与粒子",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk064"
+  },
+  {
+    "id": "rk065",
+    "code": "XCY-TY-026",
+    "name": "RK B 技法｜Typewriter Terminal",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk065"
+  },
+  {
+    "id": "rk068",
+    "code": "XCY-TY-027",
+    "name": "RK B 技法｜Swipe Up Reveal CTA",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk068"
+  },
+  {
+    "id": "rk069",
+    "code": "XCY-BG-011",
+    "name": "RK B 技法｜Stargazer",
+    "category": "背景与转场",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk069"
+  },
+  {
+    "id": "rk070",
+    "code": "XCY-CD-011",
+    "name": "RK B 技法｜Sports Broadcast Lower Third",
+    "category": "信息卡片",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk070"
+  },
+  {
+    "id": "rk071",
+    "code": "XCY-TY-028",
+    "name": "RK B 技法｜Split Screen Title",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk071"
+  },
+  {
+    "id": "rk073",
+    "code": "XCY-FX-019",
+    "name": "RK B 技法｜Shimmer Title",
+    "category": "形变与粒子",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk073"
+  },
+  {
+    "id": "rk075",
+    "code": "XCY-FX-020",
+    "name": "RK B 技法｜Retro Wave Title",
+    "category": "形变与粒子",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk075"
+  },
+  {
+    "id": "rk077",
+    "code": "XCY-TY-029",
+    "name": "RK B 技法｜Product Showcase Scene",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk077"
+  },
+  {
+    "id": "rk079",
+    "code": "XCY-FX-021",
+    "name": "RK B 技法｜Plasma Field (WebGL)",
+    "category": "形变与粒子",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk079"
+  },
+  {
+    "id": "rk080",
+    "code": "XCY-BG-012",
+    "name": "RK B 技法｜Particle Field",
+    "category": "背景与转场",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk080"
+  },
+  {
+    "id": "rk084",
+    "code": "XCY-DP-014",
+    "name": "RK B 技法｜Orbital Logo Reveal",
+    "category": "路径与纵深",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk084"
+  },
+  {
+    "id": "rk085",
+    "code": "XCY-CD-012",
+    "name": "RK B 技法｜News Ticker Lower Third",
+    "category": "信息卡片",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk085"
+  },
+  {
+    "id": "rk089",
+    "code": "XCY-FX-022",
+    "name": "RK B 技法｜Neon Glitch Title",
+    "category": "形变与粒子",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk089"
+  },
+  {
+    "id": "rk090",
+    "code": "XCY-BG-013",
+    "name": "RK B 技法｜Music Visualizer Scene",
+    "category": "背景与转场",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk090"
+  },
+  {
+    "id": "rk093",
+    "code": "XCY-BG-014",
+    "name": "RK B 技法｜Matrix Rain (Canvas 2D)",
+    "category": "背景与转场",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk093"
+  },
+  {
+    "id": "rk094",
+    "code": "XCY-TY-030",
+    "name": "RK B 技法｜Marquee Light Bulb",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk094"
+  },
+  {
+    "id": "rk098",
+    "code": "XCY-FX-023",
+    "name": "RK B 技法｜Liquid Chrome Title",
+    "category": "形变与粒子",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk098"
+  },
+  {
+    "id": "rk099",
+    "code": "XCY-DT-015",
+    "name": "RK B 技法｜Line Chart",
+    "category": "数据可视化",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk099"
+  },
+  {
+    "id": "rk101",
+    "code": "XCY-DP-015",
+    "name": "RK B 技法｜Holographic Display",
+    "category": "路径与纵深",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk101"
+  },
+  {
+    "id": "rk102",
+    "code": "XCY-TY-031",
+    "name": "RK B 技法｜Holographic Card",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk102"
+  },
+  {
+    "id": "rk103",
+    "code": "XCY-FX-024",
+    "name": "RK B 技法｜Holo Foil Card",
+    "category": "形变与粒子",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk103"
+  },
+  {
+    "id": "rk105",
+    "code": "XCY-TY-032",
+    "name": "RK B 技法｜Gradient Mesh Title",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk105"
+  },
+  {
+    "id": "rk106",
+    "code": "XCY-FX-025",
+    "name": "RK B 技法｜Gold Foil Stamp",
+    "category": "形变与粒子",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk106"
+  },
+  {
+    "id": "rk108",
+    "code": "XCY-TY-033",
+    "name": "RK B 技法｜Glassmorphism Reveal",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk108"
+  },
+  {
+    "id": "rk110",
+    "code": "XCY-TY-034",
+    "name": "RK B 技法｜Gemini Title Reveal",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk110"
+  },
+  {
+    "id": "rk111",
+    "code": "XCY-TY-035",
+    "name": "RK B 技法｜Gemini Split Screen",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk111"
+  },
+  {
+    "id": "rk116",
+    "code": "XCY-FX-026",
+    "name": "RK B 技法｜Film Burn Intro",
+    "category": "形变与粒子",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk116"
+  },
+  {
+    "id": "rk118",
+    "code": "XCY-TY-036",
+    "name": "RK B 技法｜Event Promo Scene",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk118"
+  },
+  {
+    "id": "rk119",
+    "code": "XCY-DT-016",
+    "name": "RK B 技法｜Donut Chart",
+    "category": "数据可视化",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk119"
+  },
+  {
+    "id": "rk127",
+    "code": "XCY-TY-037",
+    "name": "RK B 技法｜Cinematic Title",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk127"
+  },
+  {
+    "id": "rk128",
+    "code": "XCY-EN-006",
+    "name": "RK B 技法｜Cinematic Credits Outro",
+    "category": "结尾引导",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk128"
+  },
+  {
+    "id": "rk130",
+    "code": "XCY-DT-017",
+    "name": "RK B 技法｜Bar Chart",
+    "category": "数据可视化",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk130"
+  },
+  {
+    "id": "rk131",
+    "code": "XCY-BG-015",
+    "name": "RK B 技法｜Aurora Background",
+    "category": "背景与转场",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk131"
+  },
+  {
+    "id": "rk132",
+    "code": "XCY-TY-038",
+    "name": "RK B 技法｜Arrow Draw CTA",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk132"
+  },
+  {
+    "id": "rk133",
+    "code": "XCY-DT-018",
+    "name": "RK B 技法｜Animated Bar Chart",
+    "category": "数据可视化",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk133"
+  },
+  {
+    "id": "rk135",
+    "code": "XCY-DP-016",
+    "name": "RK B 技法｜Real Estate Tour Scene",
+    "category": "路径与纵深",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk135"
+  },
+  {
+    "id": "rk139",
+    "code": "XCY-FX-027",
+    "name": "RK B 技法｜Vector Glow Logo Reveal",
+    "category": "形变与粒子",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk139"
+  },
+  {
+    "id": "rk142",
+    "code": "XCY-EN-007",
+    "name": "RK B 技法｜Logo Zoom Outro (Image)",
+    "category": "结尾引导",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk142"
+  },
+  {
+    "id": "rk144",
+    "code": "XCY-TY-039",
+    "name": "RK B 技法｜Cinematic Logo Reveal (Image)",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk144"
+  },
+  {
+    "id": "rk146",
+    "code": "XCY-TY-040",
+    "name": "RK B 技法｜Product Image Reveal",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk146"
+  },
+  {
+    "id": "rk148",
+    "code": "XCY-TY-041",
+    "name": "RK B 技法｜DTC Product Technical Highlight",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk148"
+  },
+  {
+    "id": "rk149",
+    "code": "XCY-TY-042",
+    "name": "RK B 技法｜SaaS Product Demo Mockup",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk149"
+  },
+  {
+    "id": "rk152",
+    "code": "XCY-TY-043",
+    "name": "RK B 技法｜1950s Pixel Diner Intro",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk152"
+  },
+  {
+    "id": "rk154",
+    "code": "XCY-TY-044",
+    "name": "RK B 技法｜Warm Low-Poly Title",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk154"
+  },
+  {
+    "id": "rk156",
+    "code": "XCY-FX-028",
+    "name": "RK B 技法｜Retro Nostalgia Title",
+    "category": "形变与粒子",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk156"
+  },
+  {
+    "id": "rk157",
+    "code": "XCY-TY-045",
+    "name": "RK B 技法｜Minimalist Stick Intro",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk157"
+  },
+  {
+    "id": "rk158",
+    "code": "XCY-TY-046",
+    "name": "RK B 技法｜Nostalgic Low-Poly Title",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk158"
+  },
+  {
+    "id": "rk159",
+    "code": "XCY-TY-047",
+    "name": "RK B 技法｜Nostalgia Low Poly Title",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk159"
+  },
+  {
+    "id": "rk161",
+    "code": "XCY-TY-048",
+    "name": "RK B 技法｜Warm Organic Intro",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk161"
+  },
+  {
+    "id": "rk168",
+    "code": "XCY-MK-011",
+    "name": "RK B 技法｜Corporate Loading Glitch Transition",
+    "category": "遮罩转场",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk168"
+  },
+  {
+    "id": "rk170",
+    "code": "XCY-MK-012",
+    "name": "RK B 技法｜80s Retro Loading Transition",
+    "category": "遮罩转场",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk170"
+  },
+  {
+    "id": "rk177",
+    "code": "XCY-MK-013",
+    "name": "RK B 技法｜Circle Slide Transition",
+    "category": "遮罩转场",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk177"
+  },
+  {
+    "id": "rk186",
+    "code": "XCY-TY-049",
+    "name": "RK B 技法｜Playful Pop-Up Title",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk186"
+  },
+  {
+    "id": "rk187",
+    "code": "XCY-TY-050",
+    "name": "RK B 技法｜Playful Bouncy Pop-Up",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk187"
+  },
+  {
+    "id": "rk192",
+    "code": "XCY-TY-051",
+    "name": "RK B 技法｜Glow Slide Reveal",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk192"
+  },
+  {
+    "id": "rk194",
+    "code": "XCY-TY-052",
+    "name": "RK B 技法｜Sliding Text Reveal Blue",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk194"
+  },
+  {
+    "id": "rk195",
+    "code": "XCY-TY-053",
+    "name": "RK B 技法｜White Glow Sliding Reveal",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk195"
+  },
+  {
+    "id": "rk197",
+    "code": "XCY-TY-054",
+    "name": "RK B 技法｜Fast Capitalized Sliding Reveal",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk197"
+  },
+  {
+    "id": "rk202",
+    "code": "XCY-DT-019",
+    "name": "RK B 技法｜Futuristic Editorial Line Chart",
+    "category": "数据可视化",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk202"
+  },
+  {
+    "id": "rk203",
+    "code": "XCY-DT-020",
+    "name": "RK B 技法｜Neon DAU Growth Chart",
+    "category": "数据可视化",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk203"
+  },
+  {
+    "id": "rk210",
+    "code": "XCY-TY-055",
+    "name": "RK B 技法｜Serenity Editorial Title",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk210"
+  },
+  {
+    "id": "rk211",
+    "code": "XCY-TY-056",
+    "name": "RK B 技法｜Futuristic Retro-Gaming Title",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk211"
+  },
+  {
+    "id": "rk212",
+    "code": "XCY-TY-057",
+    "name": "RK B 技法｜Tepu Tepu Kelionės Intro",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk212"
+  },
+  {
+    "id": "rk214",
+    "code": "XCY-TY-058",
+    "name": "RK B 技法｜Spellborne Pixel Tools",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk214"
+  },
+  {
+    "id": "rk217",
+    "code": "XCY-DP-017",
+    "name": "RK B 技法｜Cinematic Sci-Fi Astronaut",
+    "category": "路径与纵深",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk217"
+  },
+  {
+    "id": "rk219",
+    "code": "XCY-TY-059",
+    "name": "RK B 技法｜GLM-5.1 AI Intro",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk219"
+  },
+  {
+    "id": "rk222",
+    "code": "XCY-DT-021",
+    "name": "RK B 技法｜Mexico GDP Growth Chart",
+    "category": "数据可视化",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk222"
+  },
+  {
+    "id": "rk223",
+    "code": "XCY-DT-022",
+    "name": "RK B 技法｜Germany GDP Bar Chart",
+    "category": "数据可视化",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk223"
+  },
+  {
+    "id": "rk224",
+    "code": "XCY-DP-018",
+    "name": "RK B 技法｜Automotive Broadcast Title",
+    "category": "路径与纵深",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk224"
+  },
+  {
+    "id": "rk228",
+    "code": "XCY-DT-023",
+    "name": "RK B 技法｜Corporate Editorial Pie Chart",
+    "category": "数据可视化",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk228"
+  },
+  {
+    "id": "rk229",
+    "code": "XCY-DP-019",
+    "name": "RK B 技法｜Cinematic Flight Map",
+    "category": "路径与纵深",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk229"
+  },
+  {
+    "id": "rk234",
+    "code": "XCY-FX-029",
+    "name": "RK B 技法｜Futuristic Neon Pulse",
+    "category": "形变与粒子",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk234"
+  },
+  {
+    "id": "rk237",
+    "code": "XCY-DT-024",
+    "name": "RK B 技法｜Animated Marketing Pie Chart",
+    "category": "数据可视化",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk237"
+  },
+  {
+    "id": "rk246",
+    "code": "XCY-TY-060",
+    "name": "RK B 技法｜Sleek Astronaut Card",
+    "category": "空间文字",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk246"
+  },
+  {
+    "id": "rk248",
+    "code": "XCY-DP-020",
+    "name": "RK B 技法｜Global Flight Map",
+    "category": "路径与纵深",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk248"
+  },
+  {
+    "id": "rk249",
+    "code": "XCY-DT-025",
+    "name": "RK B 技法｜Income Progress Line Chart",
+    "category": "数据可视化",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rk249"
+  },
+  {
+    "id": "rc001",
+    "code": "XCY-DT-026",
+    "name": "RC A｜曲线跟随滑杆",
+    "category": "数据可视化",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rc001"
+  },
+  {
+    "id": "rc002",
+    "code": "XCY-SC-010",
+    "name": "RC A｜工具栏形变命令面板",
+    "category": "叙事场景",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rc002"
+  },
+  {
+    "id": "rc003",
+    "code": "XCY-SC-011",
+    "name": "RC A｜长按确认状态机",
+    "category": "叙事场景",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rc003"
+  },
+  {
+    "id": "rc004",
+    "code": "XCY-SC-012",
+    "name": "RC A｜邻近放大缩略导航",
+    "category": "叙事场景",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rc004"
+  },
+  {
+    "id": "rc005",
+    "code": "XCY-SC-013",
+    "name": "RC A｜行内换算状态切换",
+    "category": "叙事场景",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rc005"
+  },
+  {
+    "id": "rc006",
+    "code": "XCY-SC-014",
+    "name": "RC A｜惯性滚轮选择器",
+    "category": "叙事场景",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rc006"
+  },
+  {
+    "id": "rc007",
+    "code": "XCY-QT-004",
+    "name": "RC A｜空间批注预览",
+    "category": "引用与评论",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rc007"
+  },
+  {
+    "id": "rc008",
+    "code": "XCY-DT-027",
+    "name": "RC A｜自适应精度滑杆",
+    "category": "数据可视化",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rc008"
+  },
+  {
+    "id": "rc009",
+    "code": "XCY-SC-015",
+    "name": "RC A｜按住展开环形菜单",
+    "category": "叙事场景",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rc009"
+  },
+  {
+    "id": "rc010",
+    "code": "XCY-SC-016",
+    "name": "RC A｜靠近解码列表",
+    "category": "叙事场景",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rc010"
+  },
+  {
+    "id": "rc011",
+    "code": "XCY-SC-017",
+    "name": "RC A｜锚点黏连 Tooltip",
+    "category": "叙事场景",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rc011"
+  },
+  {
+    "id": "rc012",
+    "code": "XCY-UI-008",
+    "name": "RC A｜滚动叙事固定主画面",
+    "category": "界面演示",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rc012"
+  },
+  {
+    "id": "rc013",
+    "code": "XCY-DT-028",
+    "name": "RC 结构｜持续记录时间图谱",
+    "category": "数据可视化",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rc013"
+  },
+  {
+    "id": "rc014",
+    "code": "XCY-CD-013",
+    "name": "RC 结构｜物件驱动设计沿革",
+    "category": "信息卡片",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rc014"
+  },
+  {
+    "id": "rc015",
+    "code": "XCY-QT-005",
+    "name": "RC 结构｜证据墙聚焦评论",
+    "category": "引用与评论",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rc015"
+  },
+  {
+    "id": "rc016",
+    "code": "XCY-CD-014",
+    "name": "RC 结构｜环形目录正文映射",
+    "category": "信息卡片",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rc016"
+  },
+  {
+    "id": "rc017",
+    "code": "XCY-AI-007",
+    "name": "RC 结构｜命令菜单状态机",
+    "category": "对话与终端",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rc017"
+  },
+  {
+    "id": "rc018",
+    "code": "XCY-UI-009",
+    "name": "RC 结构｜浏览历史空间栈",
+    "category": "界面演示",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rc018"
+  },
+  {
+    "id": "rc019",
+    "code": "XCY-UI-010",
+    "name": "RC 结构｜三区同步侧边栏",
+    "category": "界面演示",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rc019"
+  },
+  {
+    "id": "rc020",
+    "code": "XCY-SC-018",
+    "name": "RC B 技法｜局部焦点距离场",
+    "category": "叙事场景",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rc020"
+  },
+  {
+    "id": "rc021",
+    "code": "XCY-AI-008",
+    "name": "RC B 技法｜命令输入收束",
+    "category": "对话与终端",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rc021"
+  },
+  {
+    "id": "rc022",
+    "code": "XCY-CD-015",
+    "name": "RC B 技法｜徽标形变反馈",
+    "category": "信息卡片",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rc022"
+  },
+  {
+    "id": "rc023",
+    "code": "XCY-BG-016",
+    "name": "RC B 技法｜扫描遮罩转场",
+    "category": "背景与转场",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rc023"
+  },
+  {
+    "id": "rc024",
+    "code": "XCY-CD-016",
+    "name": "RC B 技法｜文字 Token 错峰",
+    "category": "信息卡片",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rc024"
+  },
+  {
+    "id": "rc025",
+    "code": "XCY-UI-011",
+    "name": "RC B 技法｜媒体焦点轨道",
+    "category": "界面演示",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rc025"
+  },
+  {
+    "id": "rc026",
+    "code": "XCY-BG-017",
+    "name": "RC B 技法｜流体表面材质",
+    "category": "背景与转场",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rc026"
+  },
+  {
+    "id": "rc027",
+    "code": "XCY-SC-019",
+    "name": "RC B 技法｜代理物交互反馈",
+    "category": "叙事场景",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/rc027"
+  },
+  {
+    "id": "careerflowchart",
+    "code": "XCY-DT-029",
+    "name": "员工职业路径流向图",
+    "category": "数据可视化",
+    "style": "中立",
+    "url": "https://shots.xiaochens.com/#/shot/careerflowchart"
+  },
+  {
+    "id": "usergrowthtrend",
+    "code": "XCY-DT-030",
+    "name": "用户增长趋势曲线",
+    "category": "数据可视化",
+    "style": "中立",
+    "url": "https://shots.xiaochens.com/#/shot/usergrowthtrend"
+  },
+  {
+    "id": "parallelmatrix",
+    "code": "XCY-DT-031",
+    "name": "并行计算矩阵",
+    "category": "数据可视化",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/parallelmatrix"
+  },
+  {
+    "id": "causalchain",
+    "code": "XCY-SC-020",
+    "name": "问题因果链",
+    "category": "叙事场景",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/causalchain"
+  },
+  {
+    "id": "neuralflow",
+    "code": "XCY-SC-021",
+    "name": "神经网络传播",
+    "category": "叙事场景",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/neuralflow"
+  },
+  {
+    "id": "radialevolution",
+    "code": "XCY-SC-022",
+    "name": "辐射演进图",
+    "category": "叙事场景",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/radialevolution"
+  },
+  {
+    "id": "boxofficechart",
+    "code": "XCY-DT-032",
+    "name": "票房增长折线图",
+    "category": "数据可视化",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/boxofficechart"
+  },
+  {
+    "id": "matrixmorph",
+    "code": "XCY-DT-033",
+    "name": "三维矩阵折叠",
+    "category": "数据可视化",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/matrixmorph"
+  },
+  {
+    "id": "tokenrewrite",
+    "code": "XCY-SC-023",
+    "name": "Token 重排注意力",
+    "category": "叙事场景",
+    "style": "品牌·奶油浅底",
+    "url": "https://shots.xiaochens.com/#/shot/tokenrewrite"
+  },
+  {
+    "id": "tokenheatmap",
+    "code": "XCY-SC-024",
+    "name": "Token 热区传播",
+    "category": "叙事场景",
+    "style": "品牌·奶油浅底",
+    "url": "https://shots.xiaochens.com/#/shot/tokenheatmap"
+  },
+  {
+    "id": "equationorbit",
+    "code": "XCY-SC-025",
+    "name": "公式结果轨道",
+    "category": "叙事场景",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/equationorbit"
+  },
+  {
+    "id": "moduleassembly",
+    "code": "XCY-SC-026",
+    "name": "模块散件拼装",
+    "category": "叙事场景",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/moduleassembly"
+  },
+  {
+    "id": "weightedcluster",
+    "code": "XCY-DT-034",
+    "name": "加权刻度聚类",
+    "category": "数据可视化",
+    "style": "品牌·奶油浅底",
+    "url": "https://shots.xiaochens.com/#/shot/weightedcluster"
+  },
+  {
+    "id": "tablefocus",
+    "code": "XCY-DT-035",
+    "name": "宽表重点列锁定",
+    "category": "数据可视化",
+    "style": "品牌·奶油浅底",
+    "url": "https://shots.xiaochens.com/#/shot/tablefocus"
+  },
+  {
+    "id": "paperlift",
+    "code": "XCY-BG-018",
+    "name": "整页抬升揭示",
+    "category": "背景与转场",
+    "style": "品牌·奶油浅底",
+    "url": "https://shots.xiaochens.com/#/shot/paperlift"
+  },
+  {
+    "id": "selectiverecombine",
+    "code": "XCY-CD-017",
+    "name": "选择保留与重组",
+    "category": "信息卡片",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/selectiverecombine"
+  },
+  {
+    "id": "balanceaccumulation",
+    "code": "XCY-DT-036",
+    "name": "累计权重改变平衡",
+    "category": "数据可视化",
+    "style": "品牌·奶油浅底",
+    "url": "https://shots.xiaochens.com/#/shot/balanceaccumulation"
+  },
+  {
+    "id": "documentcascade",
+    "code": "XCY-BG-019",
+    "name": "文档级联证据墙",
+    "category": "背景与转场",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/documentcascade"
+  },
+  {
+    "id": "mosaicreflow",
+    "code": "XCY-SC-027",
+    "name": "网格重排与主内容接管",
+    "category": "叙事场景",
+    "style": "品牌·奶油浅底",
+    "url": "https://shots.xiaochens.com/#/shot/mosaicreflow"
+  },
+  {
+    "id": "recursiverootgrowth",
+    "code": "XCY-SC-028",
+    "name": "双向递归根系生长",
+    "category": "叙事场景",
+    "style": "品牌·奶油浅底",
+    "url": "https://shots.xiaochens.com/#/shot/recursiverootgrowth"
+  },
+  {
+    "id": "pageleafcascade",
+    "code": "XCY-BG-020",
+    "name": "连续书页叶片级联",
+    "category": "背景与转场",
+    "style": "品牌·双主题",
+    "url": "https://shots.xiaochens.com/#/shot/pageleafcascade"
+  },
+  {
+    "id": "infinityrelay",
+    "code": "XCY-SC-029",
+    "name": "闭合无限路径双端接力",
+    "category": "叙事场景",
+    "style": "品牌·espresso深底",
+    "url": "https://shots.xiaochens.com/#/shot/infinityrelay"
+  }
+]
