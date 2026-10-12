@@ -87,4 +87,4 @@ CameraMotion.mount(container, {
 
 ## 多图、人物、封面场景 StoryMotion
 
-见 [story-api.md](story-api.md)，包含 9 个场景预设、素材顺序和参数说明。
+见 [story-api.md](story-api.md)，包含 19 个场景预设、素材顺序和参数说明。10 月 13 日新增镜头见 [october-13.md](october-13.md)。

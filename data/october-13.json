@@ -1,0 +1,115 @@
+[
+  {
+    "id": "text-contract-expand",
+    "name": "文字内缩外放换词",
+    "source": "内缩外放-1.mp4",
+    "duration": 2.067,
+    "count": 0,
+    "kind": "type",
+    "title": "对话灵感",
+    "coverTitle": "打开更多可能",
+    "subtitle": "让下一句话接住上一句话",
+    "path": "模糊收拢 → 放大清晰 → 换词展开"
+  },
+  {
+    "id": "triple-rise",
+    "name": "三卡错峰向上弹出",
+    "source": "向上弹出三个-1.mp4",
+    "duration": 10.367,
+    "count": 3,
+    "kind": "collage",
+    "title": "三个新方向",
+    "subtitle": "先看一个，再看整体",
+    "path": "中卡上弹 → 左卡上弹 → 右卡上弹"
+  },
+  {
+    "id": "folder-collect",
+    "name": "文字向右吸入文件夹",
+    "source": "向右被文件夹吸走-1.mp4",
+    "duration": 4.5,
+    "count": 2,
+    "kind": "transition",
+    "title": "值得收藏",
+    "coverTitle": "随时翻阅",
+    "subtitle": "把好想法收进同一个地方",
+    "path": "双行出现 → 文件夹进入 → 文字收拢 → 收纳上移"
+  },
+  {
+    "id": "icon-rise-badges",
+    "name": "图标上弹与双标签展开",
+    "source": "图标向上弹-1.mp4",
+    "duration": 6.533,
+    "count": 3,
+    "kind": "badge",
+    "title": "灵感工具",
+    "subtitle": "一个主角，两条亮点",
+    "path": "图标上弹 → 名称展开 → 左右标签弹入"
+  },
+  {
+    "id": "avatar-circle-corner",
+    "name": "圆形头像缩至左下",
+    "source": "头像缩小左下-1.mp4",
+    "duration": 1,
+    "count": 0,
+    "kind": "layout",
+    "title": "新视角",
+    "subtitle": "把舞台留给接下来的内容",
+    "path": "全屏 → 圆形裁切 → 缩至左下 → 标题入场"
+  },
+  {
+    "id": "side-card-reveal",
+    "name": "左右卡片翻开弹入",
+    "source": "左右弹出-1.mp4",
+    "duration": 1.133,
+    "count": 2,
+    "kind": "collage",
+    "title": "两种可能",
+    "subtitle": "左右亮点依次展开",
+    "path": "右卡展开 → 左卡展开 → 轻弹落位"
+  },
+  {
+    "id": "headline-split-swap",
+    "name": "大字分开与下方换标题",
+    "source": "文字动效-1.mp4",
+    "duration": 2.6,
+    "count": 0,
+    "kind": "type",
+    "title": "今天",
+    "coverTitle": "全部整理",
+    "subtitle": "从开场强调，到下一句重点",
+    "path": "大字两侧揭示 → 淡出 → 下方标题弹入"
+  },
+  {
+    "id": "keywords-drop",
+    "name": "关键词错峰下落汇总",
+    "source": "文字掉下来-1.mp4",
+    "duration": 2.554,
+    "count": 3,
+    "kind": "type",
+    "title": "一次讲清",
+    "subtitle": "把重点依次摆出来",
+    "path": "右词下落 → 中词下落 → 左词下落 → 汇总标题"
+  },
+  {
+    "id": "panel-pop",
+    "name": "图标切换与画面弹出",
+    "source": "画面弹-1.mp4",
+    "duration": 3.033,
+    "count": 1,
+    "kind": "card",
+    "title": "打开一个新画面",
+    "subtitle": "由一个图标，进入完整内容",
+    "path": "标题退场 → 图标弹入 → 大画面弹入"
+  },
+  {
+    "id": "cursor-page-pull",
+    "name": "鼠标拉下页面并收拢",
+    "source": "鼠标下拉页面-1.mp4",
+    "duration": 1.967,
+    "count": 5,
+    "kind": "transition",
+    "title": "探索更多",
+    "subtitle": "拉开页面，汇集灵感",
+    "path": "鼠标抵达 → 页面下拉 → 图标排布 → 底部收拢"
+  }
+]

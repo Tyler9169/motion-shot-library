@@ -52,3 +52,20 @@ Vibe Motion 只有一个原始示例。新增的完整场景和三个独立动�
 - **背景上移模糊轮播**（`background-rise`）：背景依次上移 → 聚焦 → 淡出。
 
 [使用与素材说明](story-api.md)
+
+## 2026-10-13 · 十个新镜头
+
+| 分类 | 名称 | ID | 原文件 |
+|---|---|---|---|
+| type | 文字内缩外放换词 | `text-contract-expand` | 内缩外放-1.mp4 |
+| collage | 三卡错峰向上弹出 | `triple-rise` | 向上弹出三个-1.mp4 |
+| transition | 文字向右吸入文件夹 | `folder-collect` | 向右被文件夹吸走-1.mp4 |
+| badge | 图标上弹与双标签展开 | `icon-rise-badges` | 图标向上弹-1.mp4 |
+| layout | 圆形头像缩至左下 | `avatar-circle-corner` | 头像缩小左下-1.mp4 |
+| collage | 左右卡片翻开弹入 | `side-card-reveal` | 左右弹出-1.mp4 |
+| type | 大字分开与下方换标题 | `headline-split-swap` | 文字动效-1.mp4 |
+| type | 关键词错峰下落汇总 | `keywords-drop` | 文字掉下来-1.mp4 |
+| card | 图标切换与画面弹出 | `panel-pop` | 画面弹-1.mp4 |
+| transition | 鼠标拉下页面并收拢 | `cursor-page-pull` | 鼠标下拉页面-1.mp4 |
+
+[预览这组镜头](../examples/october-13.html) · [动作与参数](october-13.md)

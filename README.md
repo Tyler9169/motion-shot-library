@@ -2,7 +2,7 @@
 
 [打开在线预览](https://tyler9169.github.io/motion-shot-library/) · [多实例示例](https://tyler9169.github.io/motion-shot-library/examples/) · [接口文档](docs/API.md)
 
-19 个 HTML / CSS / GSAP 动效预设。网页里可以预览、慢放、拖动时间轴、调参数、替换素材，以及复制接入代码。无需 HyperFrames，无需后端，所有依赖随仓库提供。
+29 个 HTML / CSS / GSAP 动效预设。网页里可以预览、慢放、拖动时间轴、调参数、替换素材，以及复制接入代码。无需 HyperFrames，无需后端，所有依赖随仓库提供。
 
 | 类型 | 预设 | 动作 |
 | --- | --- | --- |
@@ -126,3 +126,7 @@ GitHub Pages 从 `main` 分支的根目录发布。修改网页或组件后提�
 ## StoryMotion 视频参考组
 
 新增 9 个可替换图片与文案的场景组件。[打开九镜头总览](https://tyler9169.github.io/motion-shot-library/examples/story.html)，见 [九镜头拆解与 API](docs/story-api.md)。全部原创示意素材随 CSS 提供，原始 MOV 不在公开仓库内。
+
+## 2026-10-13 新增镜头
+
+从 10 个本地参考视频提取 10 个独立预设。[打开十镜头总览](https://tyler9169.github.io/motion-shot-library/examples/october-13.html) · [命名与拆解](docs/october-13.md)。StoryMotion 共 19 个预设，整个库共 29 个。圆形头像缩至左下与旧版矩形小窗为两个独立预设。
