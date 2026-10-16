@@ -112,6 +112,14 @@ downloads/                      可直接下载的组件包
 
 GitHub Pages 从 `main` 分支的根目录发布。修改网页或组件后提交到 `main`，Pages 自动更新。发布前同步重新生成 `downloads/motion-shot-library.zip`（见 `scripts/package.py`）。
 
+打包使用 `scripts/package-files.json` 中逐项列明的文件，不递归收集目录，也不依赖 `.gitignore`。新增公开文件时先审阅内容，再手动加入清单；本地配置、凭据、符号链接与嵌套 ZIP 中的敏感文件名会使构建失败。该检查不替代发布前的密钥内容扫描。
+
+```sh
+python3 -m unittest discover -s scripts -p 'test_package.py'
+python3 scripts/package.py
+```
+
+
 ## 许可与来源
 
 本仓库原创组件、网页与文档采用 [MIT License](LICENSE)。GSAP 3.15.0 保留其原许可，详见 [第三方说明](THIRD_PARTY.md)。空间包装与文字分段模式参考 HyperFrames registry 的 `yt-camera-move`、`text-stagger`、`soft-blur-in`；时间、方向、遮罩及可复用接口按本项目需求实现。

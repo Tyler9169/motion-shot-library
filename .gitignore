@@ -4,3 +4,20 @@ node_modules/
 *.log
 playwright-report/
 test-results/
+
+# Keep local credentials out of source control
+.env
+.env.*
+.dev.vars
+.dev.vars.*
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+service-account*.json
+.secrets/
+.netrc
+.pypirc
+__pycache__/
+*.py[cod]
