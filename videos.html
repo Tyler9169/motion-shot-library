@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="zh-CN">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="个人视频动效库：花字、标题、转场、素材罗列与分屏画中画，216 段视频参考。"><title>视频动效 · Motion Library</title><link rel="icon" href="favicon.svg"><link rel="stylesheet" href="style.css"><link rel="stylesheet" href="videos.css"><script src="videos.js" defer></script></head>
+<body><header><a class="brand" href="./"><span class="logo">M<span>◒</span></span><span>动效镜头库<small>MOTION LIBRARY</small></span></a><div class="header-links"><a href="./">可编辑镜头 · 29</a><a href="references.html">外部镜头索引</a></div></header>
+<main><div class="page-heading"><div><p class="eyebrow">PERSONAL COLLECTION / VIDEO MOTION</p><h1>把好动效，留在手边。</h1><p>216 段视频 · 5 个分类 · 点击播放，随时下载</p></div><span class="collection-badge">个人动效库</span></div>
+<p class="index-note">收录自「剪辑手法参考（纸巾）」：花字、标题、转场、素材罗列、分屏画中画。已排除字幕文件夹。这里提供完整时长的网页 MP4 版本；Eagle 原文件保持不变，素材权利归原作者。</p>
+<section class="video-tools" aria-label="查找动效"><label class="search-label">搜索视频<input type="search" id="video-search" placeholder="搜索名称或关键词"></label><div id="video-categories" class="video-categories" role="group" aria-label="动效分类"></div></section>
+<p id="video-count" role="status" aria-live="polite">正在加载视频…</p><div id="video-grid" class="video-grid"></div><p id="video-empty" hidden>没有找到匹配的视频，试试其他关键词。</p><button id="video-more" class="primary-button" hidden>加载更多</button><p id="video-error" role="alert" hidden>视频目录暂时无法加载，请刷新重试。</p>
+<footer><span>Motion Library · 个人视频动效</span><span>2026.10.20 收录 · 字幕未收录</span></footer></main>
+<dialog id="video-dialog" class="video-dialog"><div class="dialog-heading"><div><p id="playing-category" class="eyebrow"></p><h2 id="playing-title"></h2></div><button id="video-close" aria-label="关闭视频">×</button></div><video id="video-player" controls playsinline preload="none"></video><p id="play-error" role="alert" hidden>暂时无法播放，可下载 MP4 后在本地查看。</p><div class="dialog-footer"><span id="playing-info"></span><a id="video-download" class="primary-button" download>下载 MP4 ↓</a></div></dialog>
+</body></html>
