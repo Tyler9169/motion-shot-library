@@ -54,3 +54,17 @@ fetch('data/eagle-videos.json').then(r => { if (!r.ok) throw Error(r.status); re
   }
   render();
 }).catch(() => { document.querySelector('#video-error').hidden = false; document.querySelector('#video-count').textContent = '目录加载失败'; });
+
+/* Touch feedback follows an explicit choice on devices which expose vibration. */
+(() => {
+  if (typeof navigator.vibrate !== 'function') return;
+  const options = 'button[aria-pressed],button[role="tab"],button[role="switch"],button[aria-selected],button[data-step]';
+  document.addEventListener('click', event => {
+    if (!event.isTrusted || !event.detail || matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    const touch = 'pointerType' in event ? event.pointerType === 'touch' : matchMedia('(pointer: coarse)').matches;
+    if (!touch || !(event.target instanceof Element)) return;
+    const control = event.target.closest(options);
+    if (!control || control.matches(':disabled,[aria-disabled="true"]')) return;
+    navigator.vibrate(8);
+  }, {passive: true});
+})();

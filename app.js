@@ -68,3 +68,17 @@ select(shots.some(s=>s.id===location.hash.slice(1))?location.hash.slice(1):'zoom
 for(const slot of ['subject','background','cards']){$('story-'+slot+'-file').onchange=()=>{const files=[...$('story-'+slot+'-file').files].filter(f=>f.type.startsWith('image/')).slice(0,slot==='cards'?5:1);if(!files.length)return;pause();instance?.destroy();storyMedia[slot].forEach(URL.revokeObjectURL);storyMedia[slot]=files.map(f=>URL.createObjectURL(f));$('story-'+slot+'-status').textContent=files.map(f=>f.name).join('、');rebuild();};}
 $('story-clear').onclick=()=>{pause();instance?.destroy();for(const slot of Object.keys(storyMedia)){storyMedia[slot].forEach(URL.revokeObjectURL);storyMedia[slot]=[];$('story-'+slot+'-file').value='';$('story-'+slot+'-status').textContent='使用示意素材';}rebuild();};
 window.addEventListener('beforeunload',()=>Object.values(storyMedia).flat().forEach(URL.revokeObjectURL));
+
+/* Touch feedback follows an explicit choice on devices which expose vibration. */
+(() => {
+  if (typeof navigator.vibrate !== 'function') return;
+  const options = 'button[aria-pressed],button[role="tab"],button[role="switch"],button[aria-selected],button[data-step]';
+  document.addEventListener('click', event => {
+    if (!event.isTrusted || !event.detail || matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    const touch = 'pointerType' in event ? event.pointerType === 'touch' : matchMedia('(pointer: coarse)').matches;
+    if (!touch || !(event.target instanceof Element)) return;
+    const control = event.target.closest(options);
+    if (!control || control.matches(':disabled,[aria-disabled="true"]')) return;
+    navigator.vibrate(8);
+  }, {passive: true});
+})();

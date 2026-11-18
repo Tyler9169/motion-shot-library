@@ -2,3 +2,17 @@ let entries=[],limit=36;const query=document.querySelector('#query'),category=do
 function render(){const q=query.value.trim().toLowerCase(),matches=entries.filter(s=>(!category.value||s.category===category.value)&&(!style.value||s.style===style.value)&&(!q||`${s.name} ${s.code} ${s.id} ${s.style}`.toLowerCase().includes(q)));grid.replaceChildren();for(const s of matches.slice(0,limit)){const a=document.createElement('a');a.className='ref-card';a.href=s.url;a.target='_blank';a.rel='noreferrer';for(const [tag,text] of [['small',`${s.code} / ${s.category}`],['h2',s.name],['p',s.style],['span','到原站查看镜头 ↗']]){const el=document.createElement(tag);el.textContent=text;a.append(el);}grid.append(a);}document.querySelector('#result-count').textContent=`找到 ${matches.length} 个镜头 · 已显示 ${Math.min(limit,matches.length)} 个`;more.hidden=limit>=matches.length;}
 for(const el of [query,category,style])el.addEventListener('input',()=>{limit=36;render();});more.onclick=()=>{limit+=36;render();};
 fetch('data/xcy-index.json').then(r=>{if(!r.ok)throw Error(r.status);return r.json();}).then(data=>{entries=data;for(const [select,key] of [[category,'category'],[style,'style']])for(const value of [...new Set(data.map(s=>s[key]))]){const option=document.createElement('option');option.value=value;option.textContent=`${value} (${data.filter(s=>s[key]===value).length})`;select.append(option);}render();}).catch(()=>{document.querySelector('#error').hidden=false;document.querySelector('#result-count').textContent='暂时无法加载';});
+
+/* Touch feedback follows an explicit choice on devices which expose vibration. */
+(() => {
+  if (typeof navigator.vibrate !== 'function') return;
+  const options = 'button[aria-pressed],button[role="tab"],button[role="switch"],button[aria-selected],button[data-step]';
+  document.addEventListener('click', event => {
+    if (!event.isTrusted || !event.detail || matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    const touch = 'pointerType' in event ? event.pointerType === 'touch' : matchMedia('(pointer: coarse)').matches;
+    if (!touch || !(event.target instanceof Element)) return;
+    const control = event.target.closest(options);
+    if (!control || control.matches(':disabled,[aria-disabled="true"]')) return;
+    navigator.vibrate(8);
+  }, {passive: true});
+})();
